@@ -1,0 +1,89 @@
+// Detail textures for hldm_shovq2dm1. Use "r_detailtexturessupported 1" and "r_detailtextures 1" commands to activate it.
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+//Weapon Boxes - doesn't work...
+{357                 detail/dt_ssteel1    4.8     4.8
+{crossbow        detail/dt_ssteel1    4.8     4.8
+{grenades        detail/dt_ssteel1    4.8     4.8
+{hornetgun       detail/dt_ssteel1    4.8     4.8
+{lightgun          detail/dt_ssteel1    4.8     4.8
+{machingun      detail/dt_ssteel1    4.8     4.8
+{rocketloncher  detail/dt_ssteel1    4.8     4.8
+{satchel           detail/dt_ssteel1    4.8     4.8
+{shotgun          detail/dt_ssteel1    4.8     4.8
+{tripmine          detail/dt_ssteel1    4.8     4.8
+357                 detail/dt_ssteel1    4.0     4.0
+crossbow         detail/dt_ssteel1    4.0     4.0
+grenades         detail/dt_ssteel1    4.0     4.0
+hornetgun        detail/dt_ssteel1    4.0     4.0
+lightgun           detail/dt_ssteel1    4.0     4.0
+machingun       detail/dt_ssteel1    4.0     4.0
+rocketlauncher detail/dt_ssteel1    4.0     4.0
+shotgun           detail/dt_ssteel1    4.0     4.0
+yellowarmor     detail/dt_ssteel1    9.375  7.5
+white               detail/dt_ssteel1     2.5    2.5
+dev_generic1    detail/dt_ssteel1    5        5
+C1A3YELLOW detail/dt_ssteel1    6.25   7.5
+GENERIC99D   detail/dt_ssteel1   1.25   1.25
+GENERIC99B   detail/dt_ssteel1   1.25   1.25
+GLASSGREEN detail/dt_ssteel1     5        5
+
+//Metal
+{proto_fence          detail/dt_metal1    5     5
+{proto_grate4         detail/dt_metal1    5     5
+baseboard01         detail/dt_ssteel1    5     1.25
+baseboard09_c3    detail/dt_ssteel1   10    5
+basic1_1               detail/dt_metal1    2.5   2.5
+cable                    detail/dt_metal2    5      5
+clang_floor2           detail/dt_metal1    5      5
+grate1_3                detail/dt_metal2    5      5
+grate1_4_small       detail/dt_metal2   2.5   2.5
+j064_metpan01       detail/dt_metal1   2.5   2.5
+j064_walk01           detail/dt_metal1     5    2.5
+j128_metpan01       detail/dt_metal1     5     5
+km_arena1tower1    detail/dt_ssteel1   10   10
+metalsupport4j        detail/dt_metal1    2.5  10
+pitted_rustblac        detail/dt_metal2    10    10
+plate2_5                 detail/dt_metal1    2.5  2.5
+rustytotum              detail/dt_metal2     5   10
+xpipecolumn_gra     detail/dt_metal2    10   10
+
+//Lights
+baslt4_1               detail/dt_ssteel1    2.5   10
+ceil1_34               detail/dt_ssteel1    1.25  1.25
+ceil1_38               detail/dt_ssteel1    1.25  1.25
+ceil1_4                 detail/dt_ssteel1    1.25  1.25
+proto_light            detail/dt_ssteel1     2.5    2.5
+
+//Stone
+blocks10              detail/dt_stone1     10    10
+blocks17i             detail/dt_stone1     10    10
+grass3                 detail/dt_rough1      5      5
+killblock               detail/dt_stone1     10    10
+largerblock3b3d    detail/dt_stone2     20    20
+tilefloor7               detail/dt_conc        5      5
+
+//Rock
+pjrock1                detail/dt_rough1     10    10
+pjrock16              detail/dt_stone1     10    10
+pjrock6                detail/dt_grass1      5      5
+
+//Concrete
+concrete              detail/dt_conc         5      5
+dirty_pewter         detail/dt_conc         5      5
+dirty_pewter_bi     detail/dt_conc        10    10
+
+//Wood
+wood_128p          detail/dt_wood2      5       5
+wood_128p_FL    detail/dt_wood2      5       5
+wood_fulllogo       detail/dt_wood2     9.375 9.375
+wood_logo           detail/dt_wood2     9.375 9.375
+wood_logo_128p  detail/dt_wood2      5       5
+wood2                 detail/dt_wood2      5       5
+woodceiling1a      detail/dt_wood2     10     10
+woodcrateq3        detail/dt_wood2     9.375 9.375
+
+//Other
+{protobanner    detail/dt_fabric2   5       9.375
+weed02           detail/dt_snow1   2.5    5
+

@@ -1,0 +1,13 @@
+Crowbars Revised - Team Deathmatch
+
+Objective:  Roam around the complex and
+kill any other people from the opposing
+team. Use height to your advantage!
+
+Scoring:  1 point per kill.
+
+Other Notes:  Some crates can be broken
+to expose health packs, or hiding places.
+
+By: -=AS1=-CyborgCommando
+http://www.as1clan.com

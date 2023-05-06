@@ -1,0 +1,17 @@
+CrossfireTFC by Lee W
+Based on the original crossfire
+4 team Nuke the enemy
+recomended players 8-24
+
+Grab your key when the doors open and take
+it to the bunker to call the nuke.  
+
+Scoring: 10 team points and 10 frags for calling the nuke,
+10 team points for any team which has one or 
+more players inside the bunker when the nuke hits.
+5 frags for being inside the bunker when nuke hits.
+
+Note you carn't build directly infront of the
+resupply room doors and you carn't spam them.
+If you follow an enemy into their respawn 
+then you will get killed by the laser.

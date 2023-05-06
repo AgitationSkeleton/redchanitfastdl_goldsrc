@@ -1,0 +1,14 @@
+TFC Border 2 - Hunted Situation
+
+Object: Immigrants must make it to America.
+MiB protect the Immigrants from the Border 
+Patrol. Border Patrol stops Immigrants and
+MiB.
+
+Scoring: Two team points for Red and Blue 
+for every Immigrant that crosses the Border.
+Yellow gets no team points.
+
+Notes: Please find a copy of 
+tfcborder2a-readme.txt and read it. It has 
+a great deal of info.

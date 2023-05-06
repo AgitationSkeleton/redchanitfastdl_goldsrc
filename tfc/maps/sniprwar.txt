@@ -1,0 +1,61 @@
+================================================================
+Title                   : Sniper War (Re-Make of the original TF map).
+Date                    : March 27, 1999
+Filename                : sniprwar.bsp
+Author                  : Jay "Deride" Lindholm
+Email Address           : jlindholm@blood2.com
+Home Page               : Long gone, you can thank Telefragged that!
+
+
+Description             : Remake of Sniper Wars, exact, different textures only..
+
+Additional Credits to   : 1. TCA Internet (http://games.tca.net) and all of it's staff, 
+                             for keeping up the kick ass game servers for so long!
+                          2. All of whom have helped me become what I am in the 
+                             mapping community, espically Yooshin Yang.
+                          3. Valve software for making this kick-ass game.
+                          4. Anyone that has put up with all my bullshit lately.
+
+NO THANKS!! to          : 1. Telefragged (specifically Slade)
+                          2. BladeZ for being an immature asshole and spouting 
+                             ignorant racist comments.
+                          3. Anyone whom has had anything to do with forcing all these kids 
+                             to goto that thing you call "School"
+                          4. My parents, for forcing me to live in this VERY cold atmosphere.
+                          
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : No
+Team Fortress           : YES!
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : .map from the Sniper Wars
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None.
+
+Build Time              : 12 minutes
+
+Compile machine         : P200 mmx 96 megs of RAM
+QBSP Time               : 30 seconds
+QVIS Time (full)        : 60 seconds
+QRAD Time (extra)       : 3 minutes
+
+* Permissions *
+
+NO selling this for money! I know you want to whore my map, but I just don't like my maps whored
+
+Magazine wants map on CD, sure mail me the magazine in return and I'm fine with that!
+my addy is 5019 Norwood St. Duluth MN, 55804
+
+General BBS use - Why not?
+
+You MAY NOT alter or add to this level without my permission.
+
+* Last but not least *
+
+E-mail me your thoughts on my level. Whats good, whats bad etc. I love feedback, it keeps me going!

@@ -1,0 +1,63 @@
+// Detail textures for wintersedge. Use "r_detailtexturessupported 1" and "r_detailtextures 1" commands to activate it.
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+//Bricks
+arch                    detail/dt_brick         10      10
+bricks_dark          detail/dt_brick         20      20
+largerblock3b3d    detail/dt_brick         20      20
+
+//Metal
+basic1_1               detail/dt_metal1    2.5   2.5
+cable                    detail/dt_metal2    5      5
+cobalt_gray_dir      detail/dt_metal1    10    10
+cobalt_red             detail/dt_metal1    10    10
+dirty_pewter           detail/dt_metal1    5      5
+edge01                     detail/dt_metal1    5      5
+km_arena1tower1    detail/dt_ssteel1   10   10
+metalsupport4j       detail/dt_metal1    2.5      10
+pipewall02             detail/dt_metal1    10      5
+pitted_rustblac       detail/dt_metal2    10    10
+plate2_5                 detail/dt_metal1    2.5  2.5
+redmet4small          detail/dt_metal1    2.5  2.5
+rusted                   detail/dt_metal1     10    10
+rustytotum              detail/dt_metal2     5   10
+tin_floor05big           detail/dt_metal1       10   10
+xpipecolumn_gra     detail/dt_metal2    10   10
+{proto_fence          detail/dt_metal1    5     5
+{proto_grate4         detail/dt_metal1    5     5
+
+// Testing (Can be not working)
+{q3kc_part1          detail/dt_ssteel1    5      5
+{q3kc_part2          detail/dt_ssteel1    5      5
+
+//Lights
+baslt4_1               detail/dt_ssteel1    2.5   10
+ceil1_30               detail/dt_ssteel1    1.25  1.25
+ceil1_34               detail/dt_ssteel1    1.25  1.25
+ceil1_38               detail/dt_ssteel1    1.25  1.25
+ceil1_4                 detail/dt_ssteel1    1.25  1.25
+proto_light            detail/dt_ssteel1     2.5    2.5
+
+//Concrete
+concrete               detail/dt_conc        5      5
+concrete_black     detail/dt_conc        20    20
+ctf_neutral            detail/dt_conc        10    10
+
+//Snow
+ice                      detail/dt_snow1       10   10
+pjrock12b_2         detail/dt_snow1       20   20
+qzterra2_rock1     detail/dt_snow1       20   20
+qzterra2_snow1    detail/dt_snow1       20   20
+snow_trim            detail/dt_snow1       10   2.5
+snow_trim_lg        detail/dt_snow1       20   2.5
+snowtiles             detail/dt_brick         10   10
+snowtin               detail/dt_metal1       10   10
+square_step        detail/dt_metal1       10   10
+{snow_melting     detail/dt_snow1       10   10
+
+//Other
+podarki                 detail/dt_smooth1   10  10
+wood2                  detail/dt_wood2        5    5
+{bantichek            detail/dt_ssteel1      10  10
+{protobanner    detail/dt_fabric2   5       9.375
+
