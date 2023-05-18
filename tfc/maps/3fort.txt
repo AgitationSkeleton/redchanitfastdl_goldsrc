@@ -1,0 +1,25 @@
+3 Fortresses - Capture the Flag
+
+Red and Blue teams: 
+Go into the enemy base and steel their flag.
+Bring it back and put it on your team's logo,
+up in the small sniper tower.
+
+You get 10 points for capturing the enemy flag.
+
+The flags will return to their bases after 60 
+seconds.
+
+Yellow team (Rebels):
+Your objective is to kill as many people as
+possible. You have two huge sniper towers and 
+some secret entrances and exits at your 
+disposal.
+
+Made by BulletVest...
+Designed by Philipp Thun-Hohenstein...
+(c) 2001 by BullletVest
+Visit www.bulletvest.ixy.de
+
+P.S. Check out HL: Final Wipeout
+Coming up soon...

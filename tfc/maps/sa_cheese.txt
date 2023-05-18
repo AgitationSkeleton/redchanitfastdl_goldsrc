@@ -1,0 +1,12 @@
+Soldier Arena - Cheese
+ sa_cheese.bsp
+
+Objective: 4 team deathmatch
+
+By: Bobo666[TiT]
+Copyright (c) 2000
+
+Soldier Arena created
+ By: eX-r8ed
+Copyright (c) 2000
+

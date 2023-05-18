@@ -1,0 +1,14 @@
+// overview description file for bam.bsp
+
+global 
+{
+	ZOOM	1.16
+	ORIGIN	0	0	-288
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/bam.tga"
+	HEIGHT	-288
+}

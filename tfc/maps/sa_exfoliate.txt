@@ -1,0 +1,13 @@
+Soldier Arena - Exfoliate
+ sa_exfoliate.bsp
+
+Objective: 4 team deathmatch
+
+By: Mulchman
+ http://mulchman.org
+Copyright (c) 1999, 2000
+
+Soldier Arena created
+ By: eX-r8ed
+Copyright (c) 2000
+

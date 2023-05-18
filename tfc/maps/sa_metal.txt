@@ -1,0 +1,12 @@
+Soldier Arena - Metal
+ sa_metal.bsp
+
+Objective: 4 team deathmatch
+
+By: eX-r8ed
+Copyright (c) 2000
+
+Soldier Arena created
+ By: eX-r8ed
+Copyright (c) 2000
+

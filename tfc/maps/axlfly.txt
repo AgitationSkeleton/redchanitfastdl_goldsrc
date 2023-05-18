@@ -1,0 +1,91 @@
+AxlFly (beta 9b)
+by Axl Axl Axl Go Stl Rams!
+www.AxlsTFC.com
+
+HOW TO PLAY - (it's like murderball)
+Grab Homer and hold onto him as long as you
+can! 1 point is given to your team for every 5 seconds 
+you have Him. If you have Homer you
+can give your entire team Quad Damage by stepping on
+the button on the top of either teams balcony.
+
+fixes/additions
+
+(beta 9b 12/30/2004)
+- Changed scoreboard textures from flags to Homer
+- made lights under the hill slightly brighter
+
+(beta 9)
+- Dug a trench in the top of the hill. This
+  should keep players from hitting the lip 
+  at the top and making them easy targets for 
+  snipers
+- Retextured some stuff
+- Added some structure at the bottom of the
+  base pillars to give more cover and added
+  vents for safe landings from balconys
+- added a slightly hidden health kit
+- The birds are angry!
+- That middle part on the launch ramps will
+  now electrify people who block
+- Made some shelter at the hill tunnel
+  entrances
+- This beta increased the overall wpoly count
+  by 50 or more. Hopefully this won't cause too
+  much video lag 
+
+(beta 8)
+- made all 4 tress hollow
+- changed sky box from from starry, to sunny
+
+(beta 7b)
+- added 4 trees
+- changed the floor under hill
+- made it so spies cant disguise with flag
+
+(beta 7)
+
+- Made custom textures for the scoreboard
+- Made Quad Damage pads bigger
+- Changed the armor amount you get from the
+  bags from %50 to %20
+- Altered the ramps to better direct players
+  at the flag instead of going over it.
+- lined up some textures
+- Changed ceiling texture under the hill
+- Changed the top back wall of the bases from
+  the boring flat line look. 
+- Changed max viewable distance to 16000
+- Changed team names in GUI
+- Gave each team 2 more respawn points
+
+(beta 6b)
+
+- Changed sand texture to grass and added sidewalks. 
+- Made quad damage last 5 seconds
+- made lights even brighter under hill
+
+(beta 6)
+
+- Made it so when you drop the flag, the scoreboard
+  resets itself
+- Added wavs to better indicate who has the flag
+  and when flag returns.
+- Fixed big scaled wall problem under hill that 
+  theWALRUS and Kodak bitched to me about. :)
+
+(beta 5)
+
+- Added Flag Location Scoreboard
+- Changed quad damage reset from 45 to 20 seconds
+- made lights brighter under hill
+- fixed little bug with quad cap button
+- Changed bag reset from 5 to 8 seconds
+
+Thanks:
+Everyone 
+
+
+Most maps take months to complete. I made this
+over a weekend. Hate this map? Don't Care. 
+I made it so I love it. Deal with it.

@@ -1,0 +1,12 @@
+Soldier Arena - Spiral
+ sa_spiral.bsp
+
+Objective: 4 team deathmatch
+
+By: eX-r8eD
+Copyright (c) 1999
+
+Soldier Arena created
+ By: eX-r8ed
+Copyright (c) 2000
+

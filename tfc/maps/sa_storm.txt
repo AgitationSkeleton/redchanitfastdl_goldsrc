@@ -1,0 +1,17 @@
+Soldier Arena - Desert Storm
+ sa_storm.bsp
+
+Objective: 4 Team DeathMatch
+Not enlisted when Operation: Desert Storm was
+ordered?  Here's your chance to get a taste of
+what it was like out on the battle field.
+
+Out-fight your enemy while dodging incoming 
+mortar shells!
+
+By: [CD]Insane
+Copyright (c) 2001
+
+Soldier Arena created
+ By: eX-r8eD
+Copyright (c) 2000

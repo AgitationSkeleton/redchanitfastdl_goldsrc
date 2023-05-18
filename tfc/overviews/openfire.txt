@@ -1,0 +1,14 @@
+// overview description file for openfire.bsp
+
+global 
+{
+	ZOOM	1.42
+	ORIGIN	-560	-192	-768
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/openfire.tga"
+	HEIGHT	-768
+}
