@@ -1,0 +1,12 @@
+=========  tf2fort by .ozz (little_w1ng) ========== 
+Just a combination of 2fort from Team Fortress 2 and 2fort from TFC,
+plus some own ideas (textures, model, sound...).
+
+Hope this brings new players to TFC and bring back people that moved to TF2,
+it's not the same shit but some kind.
+
+Any bug, glitch... sorry for it, this is my first map.
+Thanks to all people who helped me to test this map.
+
+
+						May/2013
