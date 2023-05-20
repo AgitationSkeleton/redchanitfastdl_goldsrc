@@ -1,0 +1,103 @@
+"Murderball"
+July 5, 2000
+
+by: TheDreadedPyro 
+
+Scoring:
+---------------------------------------
+Run to the center and grab the ball.  
+Keep it as long as you can!  You can 
+go into any of the bases with it, but 
+everyone will know your location!  
+
+You and your team will gain a point for 
+every 5 seconds you hold the ball.
+
+This map is designed to degenerate 
+into complete chaos during larger 
+games!
+---------------------------------------
+
+Bug fixes since version 2c:
+
+1. no more dispenser-blocked door trick / 
+   no more taking the ball in respawn rooms
+
+2. added more player starts for a total of 24
+
+
+
+
+
+
+
+---------------------------------------
+email comments or suggestions to me at
+chris@atomic-pc.com
+
+Have fun with this map!
+
+Chris Thorsten
+July 5, 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+November 3, 1999
+---------------------------------------------------------
+DESCRIPTION:  this is an updated version of mrdrball.bsp,
+and fixes several problems that were present in that map.
+---------------------------------------------------------
+Players:  		4-20
+Single Player:  	No
+Deathmatch:  		No
+Team Fortress Classic:  Yes
+New Textures:  		Yes
+New Sounds:  		No
+New Models:  		No
+
+INSTRUCTIONS:  place the .bsp and .txt files in the \tfc\maps 
+subfolder of your Half-Life directory.  If you do not have a 
+\maps subfolder in \tfc, create one.  
+
+NOTE:  I used func_wall_toggle entities, i_t_g's, info_tfgoals, and 
+multi_managers to make the blinking arrow signs that appear when 
+the ball carrier is in a particular base.  
+
+The i_t_g triggers the multi_manager, which in turn triggers the 
+func_wall_toggle at 0 seconds and re-triggers it again at 0.7 seconds.  
+The multi_manager also triggers an info_tfgoal entity at 1.4 seconds, 
+and this is set to restore the i_t_g so that the ball carrier can 
+keep re-activating it as long as he's in the trigger boundaries 
+(the i_t_g brushes cover the insides of each base completely).
+
+THANKS to:  Lobotomy Boy; Karl Gregory Jones; Casey, Dave, Joe,
+Jake, Frank, & Josh; Matt Perkins, who let me use his great "Seeds" 
+font for level creation (I used it on the base sign textures); the 
+Info_Beta team;  and anyone I forgot.
+
+EMAIL me at chris@atomic-pc.com with comments and / or map suggestions.
+I don't have a lot of time for map making, but I'll try to answer your
+email at least.  : )
+
+COMMENTS:  Violent video games are just that- video games.  They should
+not be taken too seriously!  Much of the enjoyment from these games
+is in constructing the maps themselves...  and, of course,
+talkin' trash during our highly competitive LAN playtests.  Hehe.
+
+
+
+
+
+
+
+
