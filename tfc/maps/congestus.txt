@@ -1,0 +1,14 @@
+Congestus - Capture The Flag
+(The Nest)
+
+Objective: Get to the enemies flag room
+and still their flag via three different
+routes: Airlift, ladder, or battlements.
+Bring it back to your capture point balcony
+to score 10 points for your team.
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.

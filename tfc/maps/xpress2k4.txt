@@ -1,0 +1,7 @@
+Xpress Your Imagination 2004 by kaMIKazE
+
+Standard CTF, flags return after 15 seconds. Capture point is on top of the fort.
+
+www.clantnt.org
+
+Original Xpress3 design (c)copyright 1999 by Joel 'Bladez' Warren

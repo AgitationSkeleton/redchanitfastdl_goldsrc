@@ -1,0 +1,10 @@
+Hard Days Work
+
+Enforcer = Red Team  -Low Tech
+Rogue    = Blue Team -High Tech
+
+Objective: Plunder, Steal, Kill.
+
+Scoring: 10 Steal
+
+By Caleb Mitchell

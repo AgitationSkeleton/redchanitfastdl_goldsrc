@@ -1,0 +1,23 @@
+NUCLEAR FALLOUT
+
+Objective: 
+ Steal the missile key from enemy
+ base and use it to launch the nuke. 
+ Then watch as the enemy base is 
+ obliterated!
+
+Scoring: 
+ 10 team points for launching the nuke.
+ 5  personal points.
+
+Notes:
+- There is only one nuke silo. Entrance 
+  is behind the loading dock. 
+- You will need a teammate to activate 
+  launch confirmation. 
+- Dropped key returns after 60
+  seconds.
+
+(c) 1999 by Private Beavis
+http://free.prohosting.com/~beavis/
+ 

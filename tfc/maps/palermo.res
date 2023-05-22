@@ -1,0 +1,13 @@
+gfx/env/creteup.tga
+gfx/env/cretedn.tga
+gfx/env/creteft.tga
+gfx/env/cretelf.tga
+gfx/env/cretert.tga
+gfx/env/cretebk.tga
+maps/palermo.txt
+maps/palermo.bsp
+overviews/palermo.tga
+overviews/palermo.txt
+sound/palermo/ambience4.wav
+sound/palermo/cap3b.wav
+sound/palermo/whiteout.wav

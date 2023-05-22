@@ -1,0 +1,16 @@
+gfx/env/morningdew_bk.tga
+gfx/env/morningdew_dn.bmp
+gfx/env/morningdew_dn.tga
+gfx/env/morningdew_ft.bmp
+gfx/env/morningdew_ft.tga
+gfx/env/morningdew_lf.bmp
+gfx/env/morningdew_lf.tga
+gfx/env/morningdew_rt.bmp
+gfx/env/morningdew_rt.tga
+gfx/env/morningdew_up.bmp
+gfx/env/morningdew_up.tga
+maps/007_Complex.bsp
+maps/007_Complex.txt
+overviews/007_Complex.bmp
+overviews/007_Complex.txt
+sound/goldeneye/music_complex.wav

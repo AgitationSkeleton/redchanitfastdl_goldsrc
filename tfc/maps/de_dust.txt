@@ -1,0 +1,8 @@
+de_dustTFC
+
+This is the de_dust map from counterstrike modified to be a TFC deathmatch map.
+So, 4 teams and lots of death. Have at it and have fun. 
+
+note: the map de_dust is copywrighted. I have only modified the entities to 
+make this map playable in tfc and have not modified the actual map in any way.
+So please do not try to make money off of this or anything. >:( 

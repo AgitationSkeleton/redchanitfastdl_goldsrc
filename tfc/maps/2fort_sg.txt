@@ -1,0 +1,24 @@
+2Fort_SG (9th April 1999)
+
+Objective:
+Grab the opponent's Flag from their
+Base,bring it back to your Base and 
+"Capture it" by running over the 
+pedestal in the middle of your 
+Balcony outside.
+The Flag is dropped when the carrier
+dies,and remains on that spot for 60
+seconds before returning home.
+
+Scoring:
+You score 10 points for each member
+of your team per Capture.
+
+If you find you cannot get on the lift
+in the blue base,try approaching from
+the right hand side.
+
+
+
+
+

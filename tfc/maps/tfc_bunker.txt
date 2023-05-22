@@ -1,0 +1,24 @@
+Búnker Subterráneo : Capturar la bandera
+hecho por [BK-034]Rivendel
+
+Objetivo: Entra en el bunker enemigo y
+ábrete paso hasta el sótano, donde se
+encuentra la bandera enemiga. Cógela y llévala
+a tus posiciones. Colócala en la
+plataforma elevada para capturarla. 
+
+Puntuación: 10 puntos por captura para tu equipo.
+10 puntos individuales.
+
+Notas: 
+- El jugador que lleva la bandera la suelta al 
+morir. Las banderas abandonadas vuelven a su 
+base al cabo de 60 segundos.
+- La entrada a la flagroom cercana a la 
+entrada trasera solo se abre a los enemigos desde 
+dentro. A los defensores se les abre tambien 
+desde fuera.
+- Si se cae la bandera a los residuos tóxicos de 
+la entrada trasera tendrás que esperar a que 
+vuelva a su sitio, así que ten cuidado al 
+cruzarlos.

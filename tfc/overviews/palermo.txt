@@ -1,0 +1,38 @@
+// overview description file for palermo.bsp
+
+global 
+{
+	ZOOM	.81
+	ORIGIN	25.75	-431.88	1440
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/palermo.tga"
+	HEIGHT	-705
+}
+
+
+
+T	-705
+}
+
+
+
+
+
+
+T	-705
+}
+
+
+
+
+
+
+T	-705
+}
+
+
+

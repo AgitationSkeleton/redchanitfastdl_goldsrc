@@ -1,0 +1,13 @@
+Border1b - Prevent / Escort / Escape
+
+Objective:
+1. Immigrants, cross the border.
+2. MiB, get Immigrants to cross.
+3. Border Patrol, stop them both.
+
+Other Notes: Immigrants on the road are immediately
+caught.  Any Border Patrol officers who cross into
+the other country shall be punished.  The MiB and
+Border Patrol only have 5 lives, so when its your 
+last life change teams or be stuck in observer for
+the rest of the game.

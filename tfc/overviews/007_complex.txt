@@ -1,0 +1,14 @@
+// overview description file for Complex
+
+global 
+{
+	ZOOM	2.43
+	ORIGIN	255.75	82.19	321.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/007_Complex.bmp"
+	HEIGHT	321.00
+}

@@ -1,0 +1,12 @@
+Myk_SpaceDM beta 0.3
+
+Objective: Kill as many of the other
+team as you can without falling off.
+
+Thanks to R3P0M4N and Quake III for
+map ideas and to Clan <XGW> for helping
+me test it.
+
+-<XGW>KNiGHT
+
+(c) 2001 MikeTE@swbell.net

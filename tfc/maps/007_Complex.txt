@@ -1,0 +1,13 @@
+Complex - Hold The Flag
+
+Objective:
+ All Teams - Find the flag and try and hold it for
+	    as long as possible
+Scoring: 
+ For every 15 seconds you hold the flag you score
+ 1 point for your team and 1 point for yourself
+
+Other Notes:
+ Complex is part of the Goldeneye 007 TFC Map
+ Conversion Project by TFXSoft, 
+ Visit us at www.tfxsoft.com
