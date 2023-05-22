@@ -1,0 +1,17 @@
+Rasen by Hoedog
+
+Objective: Blue team must secure 2 capture
+points, and then finally secure Red's HQ.
+
+Red team must prevent the capturing of
+their HQ before the 25+ minute time limit
+runs out.
+
+Scoring: Red team  - 1 points per 10 seconds
+	 Blue team - 50 points for cp 1
+	           - 50 points for cp 2
+		   - 60 points for HQ
+
+Other Notes: When a capture point is secured, 
+spawn points are revised and a new flag 
+appears. Rounds last 25+ minutes.

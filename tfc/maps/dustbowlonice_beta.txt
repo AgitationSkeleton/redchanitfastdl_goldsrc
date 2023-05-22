@@ -1,0 +1,29 @@
+Dustbowl on Ice BETA - Invade and defend 
+
+ver 0.5 (BETA)
+
+Objective: Blue team must take their flag to
+Red team's Headquarters to win the game. 
+There are two command points on the way 
+which must be secured in order.
+
+Scoring: Red team - 5 points per minute
+	 Blue team - 30 points per capture
+		   - 50 points for HQ
+
+Due to heavy clamoring for me to hurry up and release this, I decided to release a beta version for play testing.
+
+You can now get on the roofs, there are now two ice walls that Attacker Pyros can break through only, and the ground is slightly slippery. Plus some other goodies that I think you will like.
+
+I cannot claim this as my work since I ripped it from the original Dustbowl by Valve. This was for my education and I always wanted to get on the roofs. You must not put this map on your server without giving credit to Valve! This is not the final map!
+
+The next version will have the following:
+
+Defenders will teleport into a burning igloo when crossing gates.
+Map size will be reduced.
+All textures will be fixed.
+All canyon walls will be rebuilt as well as most of the ground.
+I might put a campfire in for my bud lunar.
+
+
+

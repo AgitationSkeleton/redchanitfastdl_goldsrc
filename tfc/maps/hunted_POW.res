@@ -1,0 +1,11 @@
+models/wtfpack.mdl
+models/alertpack.mdl
+sound/huntedpow/camelot.wav
+sound/huntedpow/frogs2.wav
+sound/huntedpow/Air_raidp.wav
+sound/huntedpow/powsad.wav
+sound/huntedpow/powsad1.wav
+maps/hunted_POW.bsp
+maps/hunted_POW.txt
+maps/hunted_POW.res
+maps/hunted_POW_info.txt

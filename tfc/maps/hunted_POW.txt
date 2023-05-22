@@ -1,0 +1,31 @@
+By: [WTF?]Huenberry
+huenberry@lowlife.com
+
+Hunted:  Escape Zone at red respawn/ city gates.
+
+Prisoner is kept at Il Centro, deep inside the
+village.
+
+-Prisoner escape and make it to the escape zone.
+
+-Elite Force (red) enter the village
+and rescue your comrade held captive
+at Il Centro.  Escort him to the escape zone.
+
+
+-Guerillas (yellow) keep the POW in his cell.
+
+-Prisoner (blue Demoman) escape and get to the escape zone.
+
+Scoring:
+Yellow: 25 pts for a kill, 2 pts every 15 secs
+prisoner in cell.
+
+Elite Force and Prisoner: 4 pts every 10 secs he is outside
+of his cell.  30 pts when you escape.
+
+The longer you stay alive the more points you get.
+You can either hide in the village or run directly
+to the escape zone.
+
+  
