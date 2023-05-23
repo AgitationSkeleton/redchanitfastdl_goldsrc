@@ -1,0 +1,12 @@
+Bayeux
+
+by kes.id
+
+Invade-Defend
+
+Blue starts as the attacking team, Red the defending team.
+
+The attacking team must take the flag to each command point sequentially.
+The defending team must prevent this.
+
+When all 4 capture points have been secured, team roles are reversed.

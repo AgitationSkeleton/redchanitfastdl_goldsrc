@@ -1,0 +1,6 @@
+Collect all the banana's in each area to proceed.
+Bug:
+If you collect them all and a new passage does not open then try dropping them and picking them back up
+
+Map Creator:Volcanica
+Thanks to: Delta for giving me banana fever
