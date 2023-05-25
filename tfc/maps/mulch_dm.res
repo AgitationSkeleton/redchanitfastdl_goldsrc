@@ -1,0 +1,10 @@
+sound/misc/asshole.wav
+sound/misc/fags.wav
+sound/misc/cheap.wav
+sound/misc/open.wav
+sound/misc/wtf.wav
+sound/misc/cry.wav
+sound/misc/back.wav
+sound/misc/daddy.wav
+sound/misc/hmm.wav
+maps/mulch_dm.res

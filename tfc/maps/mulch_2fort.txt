@@ -1,0 +1,81 @@
+
+--------------------------------------------------------------------------------
+Info
+
+--------------------------------------------------------------------------------
+ 
+Title Mulchman's 2fort 
+Filename mulch_2fort.bsp 
+Author ][-Mulchman 
+e-mail mulchman11@hotmail.com 
+Website http://mulchman.org 
+Mapping Website http://mulchman.org/mmap/index.html 
+Description A classic 2fort style map, but, bases are NOT symmetrical 
+Special Thanks Beaver Ranger, Yeger, Clan ][nsurrection, ][-Dr_Feelgood, ][-Tanis, ][-Impaler, [cM]Spoonicus, [cM]Olive, [cM]Syxx, Deride[KiN], and anyone else who helped beta test that I haven't mentioned 
+Additional Info You can find me on the ][nsurrection House of Pain 2 server (hosted by Yeger): 198.82.121.133:27015; or in #clan_insurrection on the IRC server GamesNET 
+
+--------------------------------------------------------------------------------
+Play Information
+
+--------------------------------------------------------------------------------
+ 
+Single Player No 
+Deathmatch No 
+Cooperative No 
+Team Fortress Classic Yes Baby YES! 
+Difficulty Settings No 
+New Sounds No 
+New Graphics No 
+New Music No 
+Demos Replaced No 
+Size Huge 
+Recommend # of players 20 ( 9 player starts for Red, 18 for Blue ) 
+
+--------------------------------------------------------------------------------
+Construction
+
+--------------------------------------------------------------------------------
+ 
+Base New level from scratch 
+Editor used Worldcraft v2.1 (the ultimate virus) 
+Known Bugs None. If you think something is wrong, I probably intended it to be that way. 
+Build Time All in all, probably about 2 months. I stopped for a while because I had switched to openGL, and parts of the level would just fade out. Then I found that I had reduced the maxdistance to 2000, so I upped it to 4096 and resumed working on the map. 
+
+--------------------------------------------------------------------------------
+Compile / Testing
+
+--------------------------------------------------------------------------------
+ 
+Machine Pentium 3 550 Mhz, 512 MB RAM, Riva TNT2 Ultra (AGP) 
+Compile Time 
+qcsg 93.0 seconds 
+qbsp2 103.0 seconds 
+vis 1171.0 seconds 
+qrad -extra ? Unmatched Swap Transfers or some BS so no time is shown when it finishes qrad 
+
+--------------------------------------------------------------------------------
+Designer's Notes
+
+--------------------------------------------------------------------------------
+ 
+This is my first COMPLETE TFC level. Basically I was sick of the ordinary symmetrical maps, although I dig all the Valve ones... So I made this map. It probably won't be used in leagues though due to the fact that it's not symmetrical... so I'm making another map that is symmetrical and should be done soon. Actually, I have two maps I'm working on now. 
+
+--------------------------------------------------------------------------------
+Installation
+
+--------------------------------------------------------------------------------
+ 
+To play this level, extract the file "mulch_2fort.bsp" into your \half-life\tfc\maps directory and then start the game up, go to the console, and type in "map mulch_2fort". If you don't know how to do this, you really shouldn't be messing with custom made levels. 
+
+--------------------------------------------------------------------------------
+Copyright and Permissions
+
+--------------------------------------------------------------------------------
+ 
+This level may be distributed via any medium (ie: Internet, BBS, CD-ROM, compilation disk) as long as it maintains the name mulch_2fort.bsp and is supplied in a zip file called mulch_2fort.zip that also contains this text document and no other files. 
+
+--------------------------------------------------------------------------------
+(c) Copyright 1999 ][-Mulchman
+
+--------------------------------------------------------------------------------
+ 

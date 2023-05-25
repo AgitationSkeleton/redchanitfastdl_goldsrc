@@ -1,0 +1,9 @@
+Mulchman's Joust!
+
+ = mulch_joust.bsp =
+
+Objective: Kill dem f00ls!
+Try not to fall off either.
+
+
+By: Mulchman (c) 1999, 2000

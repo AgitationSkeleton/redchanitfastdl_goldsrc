@@ -1,0 +1,16 @@
+Mulchman's Trench
+ mulch_trench.bsp
+
+Objective: Enter the enemy flag
+and proceed to where their flag
+resides. Grab it, and return it
+to your battlements for a
+capture.
+
+Scoring: 10 points per capture
+
+Other Notes: Flags return after
+60 seconds.
+
+By: Mulchman (c) 1999, 2000
+ http://mulchman.org
