@@ -1,0 +1,216 @@
+// HALF-LIFE SPEECH SYSTEM SENTENCES. DO NOT MODIFY THIS FILE! Max of 1023 sentences.
+
+DIE hq/hq/man_die_part4
+BJ_01 hq/ambience/bj_01
+MS_01 hq/ambience/ms_01
+JM_01 hq/ambience/jm_01
+BJ_EXEC hq/hq2/bj_exec2
+MS_ESS1 hq/hq2/ms_ess1
+MS_ESS2 hq/hq2/ms_ess2
+MS_ESS3 hq/hq2/ms_ess3
+MS_AMBI hq/hq2/amb_ms
+WACHE1 hq/sapience/wache1
+WACHE1b hq/sapience/wache1b
+WACHE1c hq/sapience/wache1c
+SISSI1 hq/sapience/sissi1
+SISSI1b hq/sapience/sissi1b
+WHITE1 hq/sapience/white1
+WHITE2 hq/sapience/white2
+WHITE3 hq/sapience/white3
+WACHE2 hq/sapience/changewach1
+WACHE2b hq/sapience/changewach2
+PAINT1 hq/sapience/paint1
+PAINT2 hq/sapience/paint2
+PAINT3 hq/sapience/paint3
+TRUTH1 hq/sapience/truhnmensch1
+TRUTH2 hq/sapience/truhnmensch2
+XMAS hq/sapience/xmasdude
+XMAS2 hq/sapience/xmasdude2
+BJ_PAT hq/pestilence/bj
+
+// gray alien slave
+SLV_IDLE0 hq/grayslave/slv_word1 hq/grayslave/slv_word2
+SLV_IDLE1 hq/grayslave/slv_word2 hq/grayslave/slv_word3(p95)
+SLV_IDLE2 hq/grayslave/slv_word3 hq/grayslave/slv_word4
+SLV_IDLE3 hq/grayslave/slv_word4 hq/grayslave/slv_word5 hq/grayslave/slv_word5(p90)
+SLV_IDLE4 hq/grayslave/slv_word2(p110) hq/grayslave/slv_word6 hq/grayslave/slv_word7 hq/grayslave/slv_word3
+SLV_IDLE5 hq/grayslave/slv_word6 hq/grayslave/slv_word7 hq/grayslave/slv_word2
+SLV_IDLE6 hq/grayslave/slv_word7 hq/grayslave/slv_word8 hq/grayslave/slv_word3
+SLV_IDLE7 hq/grayslave/slv_word8 hq/grayslave/slv_word1 hq/grayslave/slv_word8 hq/grayslave/slv_word8(p95)
+SLV_IDLE8 hq/grayslave/slv_word1(p115) hq/grayslave/slv_word6
+SLV_IDLE9 hq/grayslave/slv_word3 hq/grayslave/slv_word3(p90)
+SLV_IDLE10 hq/grayslave/slv_word7(p85)
+
+SLV_ALERT0 hq/grayslave/(p105) hq/grayslave/slv_alert1 hq/grayslave/slv_word2
+SLV_ALERT1 hq/grayslave/(p105) hq/grayslave/slv_word8 hq/grayslave/slv_word8 hq/grayslave/slv_word8 hq/grayslave/slv_alert1
+SLV_ALERT2 hq/grayslave/(p105) hq/grayslave/slv_alert4 hq/grayslave/slv_word4 hq/grayslave/slv_alert3
+SLV_ALERT3 hq/grayslave/(p108) hq/grayslave/slv_alert1 hq/grayslave/slv_word8
+SLV_ALERT4 hq/grayslave/(p108) hq/grayslave/slv_word8(p110) hq/grayslave/slv_word8 hq/grayslave/slv_word8
+SLV_ALERT5 hq/grayslave/grayslave/(p108) hq/grayslave/slv_alert4 hq/grayslave/slv_word8 hq/grayslave/slv_alert1
+
+// HUMAN GRUNTS
+HG_GREN0 hgrunt/clik(p120) grenade! clik
+HG_GREN1 hgrunt/(t30) clik take!(e75) cover!(s5) clik
+HG_GREN2 hgrunt/clik clik oh! shit! clik
+HG_GREN3 hgrunt/(p110 t40) clik(p120) get!(e78) down!(t30) clik 
+HG_GREN4 hgrunt/clik(p110) (t40) of!(e75) god! clik(p110)
+HG_GREN5 hgrunt/clik no! clik
+HG_GREN6 hgrunt/clik move! clik(p120)
+
+// Player Alert
+HG_ALERT0 hgrunt/(t30) squad!, we!(e80) got!(e80) freeman!(t20 p105), clik(p110)
+HG_ALERT1 hgrunt/clik(p110) target! clik
+HG_ALERT2 hgrunt/clik movement! clik
+HG_ALERT3 hgrunt/(t40) shit!(t20), (t50) we! got! hostiles!(p120 t0) clik
+HG_ALERT4 hgrunt/(t20) clik(p110) squad!, get!(e80) freeman!, clik(p110) clik
+HG_ALERT5 hgrunt/(t20) clik squad!, neutralize!(e90) freeman! clik
+HG_ALERT6 hgrunt/(t30) clik clik move!(e75) in! clik(p120)
+
+// Monster Alert
+HG_MONST0 hgrunt/clik(p110) (t50) bogies!(t0), my! sector!(t0) clik
+HG_MONST1 hgrunt/clik(p110) (t40) clik(p120) we!(e75) got! bogies! clik
+HG_MONST2 hgrunt/clik clik (t30) alien!(e85) alert! clik
+HG_MONST3 hgrunt/clik clik (t30) alien!(e85) movement!(t0) clik(p120)
+
+// Take cover
+HG_COVER0 hgrunt/clik (t30) take! cover!(t0) clik
+HG_COVER1 hgrunt/clik (t45) (e75) i!(e80) need!(e80) suppressing!(t20) fire!(t10) clik
+HG_COVER2 hgrunt/clik (t45) we! need! backup!(t10) clik
+HG_COVER3 hgrunt/clik(p120) (t40) two!(e75) hot!(e80) here! clik
+HG_COVER4 hgrunt/clik(p110) (t30) fall!(e80) out! clik clik
+HG_COVER5 hgrunt/clik(p120) (t20) clear! this! area! clik
+HG_COVER6 hgrunt/clik (t40) god! damn! clik
+HG_COVER7 hgrunt/clik (t40) cover!(e75) fire! clik
+
+// Throw grenade
+HG_THROW0 hgrunt/clik(p120) (t40) fire!(e90) in!(e90) the!(e60) hole!(e100) clik
+HG_THROW1 hgrunt/clik (t30) take!(e75) this!(e100 t0) clik
+HG_THROW2 hgrunt/clik (t35) fire in the(e50) hole clik(p120)
+HG_THROW3 hgrunt/clik(p110) (t35 e80) squad, stay down clik
+ 
+// Taunt
+HG_TAUNT0 hgrunt/clik (t30 e75) uhh, we got heavy fire here clik
+HG_TAUNT1 hgrunt/clik(p120) (t40) roger, hold position clik
+HG_TAUNT2 hgrunt/clik (t40) we!(e80) will!(e75) kick!(e80) your!(e75) ass! clik
+HG_TAUNT3 hgrunt/clik (t40) mister, you(e75) are going down clik
+HG_TAUNT4 hgrunt/clik(p120) (t40) you got nothing clik
+HG_TAUNT5 hgrunt/clik(p110) (t40) request! backup! clik(p120) clik
+
+// Charge
+HG_CHARGE0 hgrunt/clik (t40) go! recon! clik(p120)
+HG_CHARGE1 hgrunt/clik(p110) (t40) move!(e75) in! clik
+HG_CHARGE2 hgrunt/clik go! clik(p120)
+HG_CHARGE3 hgrunt/clik lets! go! clik(p120)
+
+// Idle
+HG_IDLE0 hgrunt/gr_idle1
+HG_IDLE1 hgrunt/gr_idle2
+HG_IDLE2 hgrunt/gr_idle3
+
+HG_QUEST0 hgrunt/clik (t25) stay(e80) alert people clik(p120)
+HG_QUEST1 hgrunt/clik (t30) radio(e75) check, over clik(p120) 
+HG_QUEST2 hgrunt/clik (t20) maintain lookout clik(p120)
+HG_QUEST3 hgrunt/clik(p110) (t30) squad, quiet(e75) down clik(p120)
+HG_QUEST4 hgrunt/clik(p120) (t30) hold position, clik
+HG_QUEST5 hgrunt/clik(p120) (t30) sweep(e80) that sector, clik(p120) clik(p120)
+HG_QUEST6 hgrunt/clik(p120) (t30) uhh, go tango sweep formation clik(p120) clik(p120)
+HG_QUEST7 hgrunt/clik(p120) (t30) echo(e75) mission is go clik(p120) clik(p120)
+HG_QUEST8 hgrunt/clik(p110) (t30) fire(e75) team, weapons(e75) check ok clik(p120) clik
+HG_QUEST9 hgrunt/clik(p110) (t30) fire(e75) team, objective foxtrot niner clik(p120)
+HG_QUEST10 hgrunt/clik (t30) ok(e75) mission, zero(e75) niner clik
+HG_QUEST11 hgrunt/clik (t30) squad, stay(e80) alert(e80) four freeman, over clik
+
+HG_ANSWER0 hgrunt/clik(p110) (t20) uhh roger(e75) that, clik(p120) clik
+HG_ANSWER1 hgrunt/clik(p120) (t10) yessir clik
+HG_ANSWER2 hgrunt/clik(p120) (t30) affirmative, sir clik
+HG_ANSWER3 hgrunt/clik (t30) negative clik(p120) clik
+HG_ANSWER4 hgrunt/clik(p105) (t30) roger clik
+HG_ANSWER5 hgrunt/clik(p105) (t30) ok control clik
+HG_ANSWER6 hgrunt/clik(p105) (t30) that(e75) is, uhh, affirmative clik
+
+HG_CLEAR0 hgrunt/clik(p130) (t30) all(e75) clear sir, clik
+HG_CLEAR1 hgrunt/clik (t30) bravo(e75) post, clear clik(p120)
+HG_CLEAR2 hgrunt/clik(p110) (t30) delta(e75) team, clear clik(p120)
+HG_CLEAR3 hgrunt/clik(p110) (t40) no sign hostiles sir, over clik(p120)
+HG_CLEAR4 hgrunt/clik (t30) no(e80) sign objective sir, over clik(p120)
+HG_CLEAR5 hgrunt/clik (t30) no(e75) movement this level clik(p120)
+HG_CLEAR6 hgrunt/clik(p120) (t28) sir, sector secure, over clik(p120) clik(p120)
+HG_CLEAR7 hgrunt/clik(p120) (t30) command(e75) post, team in position, over clik
+HG_CLEAR8 hgrunt/clik (t30) recon, in(e75) position, all quiet clik(p120)
+HG_CLEAR9 hgrunt/clik(p110) (t30) lookout(e90) post, all quiet, over clik(p110)
+HG_CLEAR10 hgrunt/clik (t40) sir, i(e80) here(e75) something clik
+HG_CLEAR11 hgrunt/clik(p120) (t30) sir, uhh, zero movement, over clik
+HG_CLEAR12 hgrunt/clik (t30) area secure sir, over clik(p120)
+
+HG_CHECK0 hgrunt/clik (t30) ok, check(e75) in clik
+HG_CHECK1 hgrunt/clik(p110) (t30) squad, are(e80) hostiles clear clik(p120)
+HG_CHECK2 hgrunt/clik (t30) check(e80) in people clik
+HG_CHECK3 hgrunt/clik (t30) lookout, check(e75) in clik(p110)
+HG_CHECK4 hgrunt/clik (t30) recon(e90) team, check(e80) in clik
+HG_CHECK5 hgrunt/clik(p130) (t30) movement check, over clik
+HG_CHECK6 hgrunt/clik (t30) check your zone, over, clik
+HG_CHECK7 hgrunt/clik (t30) everything(e85) ok(e75) there, clik(p130)
+
+//narrative
+
+HG_SNOOP1A hgrunt/c2a2_hg_chat1a
+HG_SNOOP2A hgrunt/c2a2_hg_chat2a
+HG_SNOOP3A hgrunt/c2a2_hg_chat3a
+HG_SNOOP4A hgrunt/c2a2_hg_chat4a
+HG_SNOOP5A hgrunt/c2a2_hg_chat5a
+
+HG_DRAG1A hgrunt/c2a3_hg_1drag
+HG_DRAG2A hgrunt/c2a3_hg_2drag
+HG_DRAG3A hgrunt/c2a3_hg_3drag
+HG_DRAG4A hgrunt/c2a3_hg_4drag
+HG_DRAG5A hgrunt/c2a3_hg_5drag
+HG_DRAG6A hgrunt/c2a3_hg_laugh
+
+HG_SUCKS hgrunt/hg_sucks
+HG_CIVVIES hgrunt/hg_civvies
+
+BA_POK0 ,
+BA_POK1 ,
+BA_POK2 ,
+BA_POK3 ,
+
+// if barney can't follow you
+BA_STOP0 ,
+BA_STOP1 ,
+BA_STOP2 ,
+
+SC_OK0 ,
+SC_OK1 ,
+SC_OK2 ,
+SC_OK3 ,
+SC_OK4 ,
+SC_OK5 ,
+SC_OK6 ,
+SC_OK7 ,
+SC_OK8 ,
+
+SC_WAIT0 ,
+SC_WAIT1 ,
+SC_WAIT2 ,
+SC_WAIT3 ,
+SC_WAIT4 ,
+SC_WAIT5 ,
+SC_WAIT6 ,
+
+// fail to follow player any more
+SC_STOP0 ,
+SC_STOP1 ,
+SC_STOP2 ,
+SC_STOP3 ,
+
+
+// player is staring at scientist
+SC_STARE0 ,
+SC_STARE1 ,
+SC_STARE2 ,
+
+SC_POK0 ,
+SC_POK1 ,
+SC_POK2 ,
+SC_POK3 ,
+SC_POK4 ,
