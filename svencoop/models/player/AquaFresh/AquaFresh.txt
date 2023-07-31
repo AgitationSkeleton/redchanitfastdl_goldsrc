@@ -1,0 +1,27 @@
+Finished 5/30/2000
+
+Hi, I'm Tobias Case and this is my first model.  The skeleton is gman,
+but because of the nature of a toothpaste tube, I had to make a lot of
+custom animations or simply edit existing ones.
+
+Vertices:  132
+Triangles: 262
+Groups: 1
+Materials: 1
+Joints: 40
+Skin: 1 of 256X256
+
+To install - Unzip file to your /models/player directory.
+
+Thanks to Valve, Chumbalum Soft's Milkshape 3D 1.3.1, Aqua Fresh Tartar
+Control Toothpaste, and my twin brother for letting me borrow his scanner.
+
+BeyondLight@excite.com
+
+Note:  In the Half-Life Model Viewer, the lower body of the model appears
+differently than in game for crouched animations.  This is due to
+Half-Life only reading the upper body for reference.  When making this
+model I found it unnecessary to redo the whole body for these animations,
+because it looks great in-game.
+
+BeyondLight
