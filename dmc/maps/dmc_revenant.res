@@ -1,0 +1,15 @@
+//maps/dmc_revenant.bsp
+maps/dmc_revenant.res
+maps/dmc_revenant.txt
+//sprites/jinx/jx0firesmall.spr
+//sprites/jinx/m_orflare1.spr
+//sprites/jinx/m3_revtele.spr
+//sprites/jinx/jx0xssmke1.spr
+//sprites/jinx/rev_spark.spr
+//sound/jinx/borg_revrain.wav
+//sound/jinx/mr_torch.wav
+//sound/jinx/jxthunder02.wav
+//sound/jinx/mr_rain1.wav
+models/jinx/garg_gibs.mdl
+models/jinx/wik_gmn.mdl
+models/jinx/wik_readme.txt

@@ -1,0 +1,50 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Dagon's Abode
+
+A Deathmatch Classic map by myrmidon
+
+theiliad@gmail.com
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Dagon's Abode is a little mediæval Deathmatch Classic map.
+Inspired by Quake, I wanted to keep the spirit of those old
+deathmatch maps. I've worked hard to keep down the
+r_speeds and filesize on this map.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+unzip dmc_dagon.bsp to your "...\dmc\maps" folder
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+"Verily I say unto thee, Death shall descend,
+And the pit shall devour you whole,
+without partiality, and without hesitation,
+while the waters shall form a mirk, without egress,
+and the flux therein shall utterly rend thy flesh."
+
+-inscription upon Dagon's tomb
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+compile time: (~1000Mhz Athlon w/ 640 MB RAM)
+hlcsg -----------------------  16.37 seconds
+hlbsp -----------------------  12.57 seconds
+hlvis (-full) --------------- 540.20 seconds [9m 0s]
+hlrad (-extra -smooth 80) --- 475.67 seconds [7m 55s]
+_______________________
+____total = 17m 24s____
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+This un-altered zip file may be distributed for non-commercial
+purposes only.
+
+dmc_dagon .bsp & .txt  (c)2004 myrmidon
+
+Deathmatch Classic (c)2001 Valve LLC.
+
+Quake (c)1996 id Software, INC 
+
+All Rights Reserved

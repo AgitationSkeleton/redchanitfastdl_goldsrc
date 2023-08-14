@@ -1,0 +1,105 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+
+
+------General Information--------------------------------------------
+
+Title		: Revenant
+Filename		: dmc_revenant (also available for Action Half-Life; HLDM; Vampire Slayer)
+Authors		: Jinx
+Authors Email	: jinx@cryotank.net or matthewblevins@hotmail.com
+Home page	: http://www.cryotank.net/maps/
+Description	: a DOOM-ish temple map
+Previous Maps	: hldm_gebasement, hldm_meatpit, hldm_battleschool, ahl_stormvale_v2
+Upcoming Maps	: ahl_temple for Action HL v1.0
+
+
+------About This Map-------------------------------------------------
+
+Revenant is based on a map layout I drew up about 5 years ago- before I got a computer! I was bored one night a few months ago and took about an hour to make the basic layout in Hammer. Then I went back and started to work on it and retexture it and... it ended up being pretty damn cool!
+
+"Revenant" is a reference to the DOOM baddie of the same name.
+
+
+------Credits and Thanks---------------------------------------------
+
+For the DMC version of this map, thanks to Archaic, Ranger_Ric, American Zombie and Divebomber. Their mapping/playing experience helped me get the weapons and items right (I hope!).
+
+Orpheus, Alice, corpsinhere, and everyone else who gave me such good feedback on this map. And the AHLMD forums and Snarkpit in general. The map is better because of their help!
+
+BORG for the rain sounds outside (from Stormvale originally, edited down a bit for DMC).
+
+MeanRabbit.com (http://www.meanrabbit.com) for the rain sound on the roof and the fire sound (mr_ prefix).
+
+The people at Valve who did Deathmatch Classic. I use mostly textures from this mod in the map, as well as a skybox from it.
+
+Firestarter, Rawhyde, Heatmiser... basically the "wikked" folks who open-sourced those maps for Action HL. The gargoyle models are from those packs, please see the readme in the models/jinx/ directory for more information and terms of use. (http://www.planetquake.com/polycount/cottages/hellhole/) (http://www.wikkedwares.com/main.htm)
+** I got permission from Firestarter (the modeler) to use these, but I could not get a hold of Rawhyde- I got no response from my email. I'm a little queasy about using them because of that. However, this map also has a great Action HL version, and Firestarter said it was okay, so I'm going ahead and including them. I wouldn't use these in other HLDM or VS maps, though, without similarly going after permission from these guys.
+
+
+------Texture Credits------------------------------------------------
+
+Manah: some textures from his public wads. (http://www.planethalf-life.com/manah/)
+
+Cayle George: a few dmc ones from his "megawad", modified somewhat by me for this map. (http://www.planethalflife.com/cayle/)
+
+Deathmatch Classic: some textures are from this mod's wad. (it's valve, so I think it's open to use)
+
+DeepQantus and Hondo: I used their animated rain textures (from Noir and Endless Rain; DQ made the B&W version).
+
+Muad'dib: I used textures of Muad'dib's to make the glow sprite on the fires and the glow on the teleportals. (http://www.planetunreal.com/muad/) (http://www.planethalflife.com/wadfather)
+
+MasterPlan: I used an animated fire texture in his Chronic texture set to make the fire sprite used in this map. (http://www.planethalf-life.com/wadfather)
+
+X-Tender: I used a texture of his for the skylight window. (http://www.fuchtelworld.de)
+
+Doenerking: That amazing water texture is his. (http://www.thedoenerking.de/)
+
+[WTF?]Evile Dick: The beautiful stained glass windows behind the gargoyles are from his Stained Glass set. I modified them for transparency around the edges. (http://www.planethalflife.com/wadfather)
+
+Jinx: I made the plant texture for the plants in the water myself out of some pics I found online.
+
+
+------Additional Info, Tips, and Notes-------------------------------
+
+Meh. I suck at DMC/Quake, you give ME some hints Mister!
+
+There are 2 each of the grenade launcher and rocket launcher. Blame Ric! ;D
+There is no small nailgun since, well, it sucks!!
+
+
+------Play Information-----------------------------------------------
+
+Single Player	: No.
+Deathmatch	: Yes.
+Modification	: Deathmatch Classic
+Map Description	: A DOOM-esque temple
+How Many Players	: 4-10 (medium-sized map)
+
+
+------Map Information------------------------------------------------
+
+New Textures	: Yes, no default HL textures here. (see credits)
+New Sounds	: Yes. A few from Borg, a few from http://www.meanrabbit.com.
+New Models	: Yes, by Firestarter.
+New Sprites	: Yes. A flare sprite by Muad'dib's and a fire sprite by Masterplan.
+
+
+------Construction---------------------------------------------------
+
+Base		: None.
+Editor(s) used	: Valve Hammer, Zoner's Tools
+Texture editors	: Wally, Photoshop
+Compile Machine	: Athlon 2700+ 1GB ram
+Compile time	: About 10 minutes.
+Playtest time	: A few small sessions. (AHL version)
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors may not use this level as a base to build additional levels without my direct permission.
+
+You MAY NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!!!.
+
+This zip may be distributed ONLY over the Internet. You are NOT authorized to put this zip or its contents on any CD or distribute it in any way without my permission. Which I may give, just ASK ME! You are not allowed to sell or distribute this zip or its contents for profit. This includes distribution on FilePlanet and other websites which charge people to download. Basically you are NOT allowed to make MONEY off of MY work.
