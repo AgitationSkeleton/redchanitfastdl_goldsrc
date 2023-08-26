@@ -1,0 +1,54 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : DMC_187's ShockaMania
+FILENAME                : dmc_187.bsp
+AUTHOR                  : Paul Bullman
+RELEASE DATE            : 06.03.2002
+GAME                    : Half-Life
+TYPE                    : DeathMatch Classic
+EMAIL ADDRESS           : paul@planethalflife.com
+HOMEPAGE URL            : http://www.paul.mu 
+CLAN URL		: http://www.clan187hq.com
+
+--------------------------------------------------------------------------------
+* INSTALLATION INSTRUCTIONS *
+--------------------------------------------------------------------------------
+Unzip Into your half-life directory. The zip is archived so it will extract the bsp file, and this text file into
+your dmc/maps directory, and the sounds will be extracted into that proper directory as well.
+
+
+--------------------------------------------------------------------------------
+* Special Thanks *
+--------------------------------------------------------------------------------
+
+Clan 187's server(s) which are run quite well by Kad.
+
+Clan <[187]> which includes Kad, Shoot to Thrill, Corrupted Soul, SpunkyAss, Frags, Somebody, Trend*Killer
+
+Clan OG which includes Kamakazi
+
+Clan CF which includes Wangmauler, and Marduk
+
+Clan NUW which includes Flipper
+
+AND not to be forgotten..
+Duglim - first playtester of the map, in fact
+Pete Weatherby - playtested tons of my maps since Duke
+Shiz
+
+And many others who helped out, but forgot while writing this text at 5:30AM. doh!
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+This BSP MAY NOT be decompiled, converted, or mofified in any way without
+my permission.
+
+This BSP MAY NOT be distributed in public domain over the Internet and/or BBS
+systems.  You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+Copyright (c)2002 Paul Bullman. All rights reserved.
