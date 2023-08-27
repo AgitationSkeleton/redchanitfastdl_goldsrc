@@ -1,0 +1,68 @@
+================================================================================
+* HALF-LIFE LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : dmc_e1m8 A.K.A Zigarut Vertigo
+FILENAME                : dmc_e1m8.zip
+AUTHOR                  : TonToE
+DATE                    : 08/20/2001
+TYPE                    : DMC
+EMAIL ADDRESS           : meTonToE@hotmail.com
+HOMEPAGE URL            : www.geocities.com/olmod4hl
+.zip CONTENTS           : maps/dmc_e1m8.bsp
+                      	  maps/dmc_e1m8.txt
+                          models/fireball.wad
+			  e1m8.wad
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+This map is a remake of the original one from Quake, E1M8 also known as Zigarut 
+Vertigo. This was one of my freinds and I always enjoyed to play in. I used the 
+original map for a base by decompiling it, and rebuilding it to work as intended.
+Also using the original textures to give it the same look.
+
+In general r_speeds are moderate throughout the map with higher r_speeds in one
+or two specific locations looking specific directions.
+
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : e1m8 from Quake	
+PREFABS USED            : None
+EDITOR(S) USED          : Worldcraft 3.3	
+OTHER UTILITIES USED    : Zoners HL Tools v2.31
+
+COMPILE MACHINE         : P2 466 256 MB SDRAM
+
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+Maps for the upcoming mod Outlaws for HL
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Id Software 		:For making the oringal. And making some of the best fps
+			:memories for me.
+		
+
+Valve			:For bringing the good times back almost perfect, except
+			:for a few issues it's that close.
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
