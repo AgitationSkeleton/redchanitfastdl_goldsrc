@@ -1,0 +1,86 @@
+dm_perthowned, by Trashbang (2020)
+
+Map Name:           Perthowned
+Filesize:           9.27MB
+Author:             David Will, a.k.a Trashbang
+Author's email:     david.w.node@gmail.com
+Twitter:            @TheTrashbang
+=======================================================
+LEVEL DESCRIPTION: 
+
+Single Player:      No
+Co-Op:              No
+Deathmatch:         Yes
+Suggested Players:  2-255
+New Textures:       No
+New Sprites:        Yes
+New Sounds:         Yes
+New Models:         No
+Map description:    A cliffside facility for rocket engine testing
+
+=======================================================
+CONSTRUCTION:
+
+I don't want to talk about it.
+
+base map:           None
+prefabs:            None
+other models:       None
+editor used:        Sledge, against my better judgement. Final builds done in Hammer 3.4.
+utilities used:     VHLT, Notepad++
+known bugs:         A bunch of small hall-of-mirrors if you gauss jump in the right places. 
+                    (Also some over-aggressive clip brushes, probably)
+compile machine:    Intel Core i7-6700K @ 4.00GHz, 32GB of RAM
+compile time:       31 minutes, 22 seconds
+
+=======================================================
+INSTALLATION:
+
+Unzip the archive into /Half-Life/valve
+
+=======================================================
+OTHER LEVELS BY TRASHBANG:
+dm_lister, de_nocredit, de_coredump
+
+=======================================================
+TESTERS:
+Joe Wintergreen
+Sam Schultz
+Some other cool folks from way back whose names I never bothered to record
+
+SPECIAL THANKS:
+twhl.info
+Vluzacn & Zoner
+Everyone who put up with me moaning on Twitter for the last however-many years
+Erika
+
+=======================================================
+CREDITS:
+
+I pinched all these assets direct from my Half-Life folder, and you know that shit's not organised. 
+I've done my best. Hit me up if you know any of the missing entries.
+
+Sprites:
+    billow_01:              Opposing Force                  by Gearbox
+    billow_02:              Opposing Force                  by Gearbox      
+    smokepuff:              ???
+    taxi_dust:              ???
+    wood_smoke_add:         ???
+    
+Sounds:
+    city_ventpump_loop1:    Half-Life 2                     by Valve
+    crete4_ambi_int:        SOA_Arcane.bsp                  by SoulAsylum
+    cubicle_equipment:      cubicle03.bsp (TWHL Cubicles)   by Soup Miner
+    diesel1:                ???
+    engagelev:              ns_bast.bsp                     by Relic25
+    fan10:                  thwc2_stalky.bsp                by m1cHi
+    hbjazz:                 ahl_hkheat.bsp                  by Nick 'drumdude' Cramer
+    hum:                    ???
+    klaxon_airlock:         dm_enpro.bsp                    by Victor-933
+    lowsteam:               (various)                       by Victor-933
+    mech_amb1:              dm_achluophobia_final.bsp       by Victor-933
+    pipes1:                 ???
+    splosh:                 Gunman Chronicles               by Rewolf
+    steam2:                 Half-Life 2                     by Valve
+    water_run1:             ???
+    windy:                  ???
