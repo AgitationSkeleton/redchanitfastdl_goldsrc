@@ -1,0 +1,67 @@
+================================================================
+Title                   :	killbox.bsp
+Filename                :   killbox.bsp
+Author(s)               : 	Ooblik  (of FrogFree Clan)
+Email Address           : 	see webpage for addresses
+Webpage					:	www.cal.shaw.wave.ca/~dread
+Description             :	Large Cube with RPGs
+Additional Credits to   : 	[FF]KinetiK, [FF]Wi][is, [FF]Drexoll, JR and Rambo (of parts unknown... they just came by and helped us out a bit!)  Last but certainly not least, PC Gamer and Coconut Monkey for their wonderful map Killingbox2.
+
+================================================================
+
+* Play Information *
+
+
+Level Name              : 	Kill Box
+
+Single Player           : 	Just to look around I guess
+Cooperative 1-32 Player : 	Nope
+Deathmatch 2-32 Player  : 	6 player MAXIMUM on a LAN, 4-5 MAXIMUM on the Internet
+Difficulty Settings     :	Nope
+
+New Sounds              :	Nope
+New Graphics            :	Nope
+Sound Track             :	Nope
+Demos Replaced          :	Nope
+.map   Included         :	Nope
+
+Software needed to play :	Half Life v 1.006 (obviously)
+
+
+Comments                : 	
+Killing Box is based on a Quake2 map called killingbox2.bsp that Drexoll gave to me (KinetiK) one day.  Not a great map by any stretch of the imagination but the carnage produced amazed the lot of us playing it.  We missed the fun factor in Half Life that killingbox2 provided for us in Quake2 and hence the re-creation of it here.  I have no idea how to operate the damn Worldcraft 2.0 so I got Ooblik to build one.  
+
+Installation
+------------
+
+Unzip the file killbox.bsp and killbox.txt into your c:\sierra\halflife\valve\maps directory.
+
+
+* Construction *
+
+Base            :  Custom map from scratch.  Idea based on above mentioned Quake2 map.
+Build Time      :  5-7 hours (plus playtesting etc etc)
+
+Times & stats   : System Used      : Pentium II-300 SCSI,  128 MB
+                  Qbsp             : 1 second
+                  Vis (-level 4)   : 1 second
+                  Light (-extra)   : 62 seconds
+
+Texture WAD used:	halflife.wad
+Editor(s) used  :	Worldcraft 2.0
+Known Bugs      :
+ 
+1)  _VERY_ processor intensive map.  LARGE LARGE volume of the map precludes any more than 4 or 5 players on the internet.  You really wouldn't want anymore than this to play at one time though.  
+
+2)  Red lights shine on ceiling.  Not a bug an issue.
+
+
+
+* Legal Stuff *
+--------------------------
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by FrogFree Clan, 1998.
+
+You MAY distribute this level through any electronic network (internet, FIDO, local BBS etc.), provided you include this file and leave the archive intact.  Credit must be given to FrogFree Clan mentioning FrogFree Clan as designer.  If you wish to make a profit on this, then you must notify the FF Clan within 6 weeks before the product is released and we will provide details on how the fortune is to be distributed.
