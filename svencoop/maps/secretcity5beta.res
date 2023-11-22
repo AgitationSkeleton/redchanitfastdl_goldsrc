@@ -1,0 +1,12 @@
+models/turr/turstatue.mdl
+models/turr/piranha.mdl
+models/turr/intruder.mdl
+sound/tur/alec.wav
+sound/tur/dylan.wav
+sound/tur/oddity.wav
+sound/tur/transformation.wav
+sound/tur/hongkong.wav
+sound/tur/labyrinth.wav
+maps/secretcity5beta.res
+maps/secretcity5beta_motd.txt
+maps/secretcity5beta.cfg

@@ -1,0 +1,10 @@
+gfx/env/londonbk.tga
+gfx/env/londonup.tga
+gfx/env/londonft.tga
+gfx/env/londonlf.tga
+gfx/env/londonrt.tga
+gfx/env/londondn.tga
+gfx/env/london.txt
+maps/secretcity6b6_skl.cfg
+maps/secretcity6b6.cfg
+maps/secretcity6b6.res
