@@ -1,0 +1,38 @@
+██████╗ ███╗   ███╗ ██████╗        ██╗    ██╗██╗███████╗███████╗ █████╗ ██╗   ██╗
+██╔══██╗████╗ ████║██╔════╝        ██║    ██║██║██╔════╝██╔════╝██╔══██╗██║   ██║
+██║  ██║██╔████╔██║██║             ██║ █╗ ██║██║███████╗█████╗  ███████║██║   ██║
+██║  ██║██║╚██╔╝██║██║             ██║███╗██║██║╚════██║██╔══╝  ██╔══██║██║   ██║
+██████╔╝██║ ╚═╝ ██║╚██████╗███████╗╚███╔███╔╝██║███████║███████╗██║  ██║╚██████╔╝
+╚═════╝ ╚═╝     ╚═╝ ╚═════╝╚══════╝ ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+
+=== DMC_WISEAU for Deathmatch Classic (and TFC) by AlphaBlaster ===
+CONTACT: @alphablaster on Discord
+WEBSITE: https://redchanit.xyz/
+
+Description: This is a from-scratch and from-memory recreation of dm_wiseau from Open Fortress / TF2Classic, originally by MacD11 and iiboharz. It is a very faithful adaptation of the original map transcribed to the world of DMC in that it still maintains the warehouse themeing and keeps almost all of the layout intact, save for a few small changes such as the Displacer Cannon room which I felt needed to be refitted, and for the ladders which DMC lacks, prompting me to in turn use a number of carefully-placed staircases instead.
+
+Try shooting the E on the Wiseau Warewhouse sign!
+
+Team Fortress Classic supports DMC maps as 4-team TDM maps, with support for the DMC powerups due to also having Quake's powerups. Should be fun for some 4team mayhem. See below if you want to host for TFC.
+
+Map info:
+Time to make: About four days off and on, spread from early August to late November after the HL anniversary motivated me to finish this.
+Compile time: 24.96 seconds
+Editor used: J.A.C.K. Hammer
+
+Entity Statistics:
+35 Deathmatch spawns, 1 Singleplayer spawn.
+
+1 Rocket Launcher
+1 Lightning Gun
+1 Grenade Launcher
+2 Super Nailguns
+4 Nailguns
+5 Super Shotguns
+
+1 Quad Damage
+1 Penta
+
+TFC SERVER HOSTS:
+Do this map justice please and be sure to include the DMC skybox in your FastDL. It'll look like shit with the default canyon skybox. Please.
+Also be sure to put DMC.wad in your FastDL and server directory.
