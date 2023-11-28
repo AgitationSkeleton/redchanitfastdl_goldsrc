@@ -1,0 +1,25 @@
+=== DMC_2Fort for Deathmatch Classic (and TFC) by AlphaBlaster ===
+CONTACT: @alphablaster on Discord
+WEBSITE: https://redchanit.xyz/
+
+Description: This is a Deathmatch Classic conversion of Valve's 2Fort for TFC. Nothing too special. I changed the skybox and lighting, gutted the spawnrooms, sealed off the flag basements, added weapon spawners, some ambient sounds, etc.
+This was inspired by and is heavily based on the Open Fortress / TF2Classic dm_2fort and its weapon placements and layout changes.
+
+Team Fortress Classic supports DMC maps as 4-team TDM maps, with support for the DMC powerups due to also having Quake's powerups. Should be fun for some 4team mayhem.
+
+Map info:
+Time to make: About 3 hours (It's simply a modified version of 2Fort)
+Compile time: 17.79 seconds
+Editor used: J.A.C.K. Hammer
+
+Entity Statistics:
+24 Deathmatch spawns, 1 Singleplayer spawn.
+
+1 Rocket Launcher
+1 Lightning Gun
+1 Grenade Launcher
+1 Super Nailgun
+3 Nailguns
+3 Super Shotguns
+
+1 Quad Damage
