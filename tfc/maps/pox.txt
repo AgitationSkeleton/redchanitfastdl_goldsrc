@@ -1,0 +1,19 @@
+Monkeypox - CTF Infiltration
+
+Objective: The Red and Blue teams are 
+trying to poison each other with a Bioweapon. 
+The Bioweapon starts in the freezer on the 
+boat. They have to carry the leaky 
+Bioweapon to the ventilation room in the 
+enemy base. 
+
+The Yellow team must protect the Bioweapon 
+by keeping it in the Freezer at all times. 
+
+Scoring: 25 points per delivery.  2 points
+to Yellow every 15 seconds if the Bioweapon
+is in the Freezer.
+
+
+Barking Dog Studios
+http://www.barking-dog.com
