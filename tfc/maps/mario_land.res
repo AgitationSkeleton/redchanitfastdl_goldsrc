@@ -28,9 +28,6 @@ gfx/env/grassbk.tga
 //sound/mario/falling1.wav
 //sound/mario/death2.wav
 
-// 3ea custom models - one monster, two player
-
-models/cannon_guy.mdl
 
 // 2ea map related files
 

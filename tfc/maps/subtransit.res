@@ -3,7 +3,7 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (10):
+// .res entries (12):
 decals.wad
 gfx/env/desertbk.tga
 gfx/env/desertdn.tga
@@ -13,4 +13,6 @@ gfx/env/desertrt.tga
 gfx/env/desertup.tga
 halflife.wad
 liquids.wad
+overviews/subtransit.tga
+overviews/subtransit.txt
 sound/ambience/labdrone2.wav

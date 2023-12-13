@@ -3,7 +3,7 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (14):
+// .res entries (16):
 decals.wad
 gfx/env/nightbk.tga
 gfx/env/nightdn.tga
@@ -12,6 +12,8 @@ gfx/env/nightlf.tga
 gfx/env/nightrt.tga
 gfx/env/nightup.tga
 halflife.wad
+overviews/stalkyard.tga
+overviews/stalkyard.txt
 sound/ambience/biggun1.wav
 sound/ambience/crickets.wav
 sound/ambience/wind1.wav

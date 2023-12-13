@@ -3,8 +3,10 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (4):
+// .res entries (6):
 decals.wad
 halflife.wad
 liquids.wad
+overviews/datacore.tga
+overviews/datacore.txt
 xeno.wad

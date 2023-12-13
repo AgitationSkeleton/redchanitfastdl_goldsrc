@@ -3,12 +3,14 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (11):
+// .res entries (13):
 decals.wad
 halflife.wad
 liquids.wad
 models/med_crategibs.mdl
 models/metalplategibs.mdl
+overviews/lambda_bunker.tga
+overviews/lambda_bunker.txt
 sound/ambience/drips.wav
 sound/ambience/pumper.wav
 sound/ambience/waterfall1.wav

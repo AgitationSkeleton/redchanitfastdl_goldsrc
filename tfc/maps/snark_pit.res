@@ -3,7 +3,7 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (12):
+// .res entries (14):
 decals.wad
 gfx/env/desertbk.tga
 gfx/env/desertdn.tga
@@ -13,6 +13,8 @@ gfx/env/desertrt.tga
 gfx/env/desertup.tga
 halflife.wad
 liquids.wad
+overviews/snark_pit.tga
+overviews/snark_pit.txt
 sound/ambience/boomer.wav
 sprites/glow01.spr
 xeno.wad
