@@ -5,6 +5,18 @@
 
 // .res entries (16):
 dmc.wad
+gfx/env/nightbk.tga
+gfx/env/nightdn.tga
+gfx/env/nightft.tga
+gfx/env/nightlf.tga
+gfx/env/nightrt.tga
+gfx/env/nightup.tga
+halflife.wad
+sound/ambience/crickets.wav
+sound/ambience/drips.wav
+sound/ambience/industrial1.wav
+sound/ambience/industrial3.wav
 sound/ambience/q_wind2.wav
-maps/hldm_2fort.txt
+sound/ambience/sparks.wav
+sprites/flare1.spr
 tfc.WAD
