@@ -1,0 +1,36 @@
+Feared By Earth - Capture The Flag
+
+Log 060-0S: The ground trembles as if it mimics
+the pain of these worms. I wish there was a way 
+of saving them, but the danger is too high to be
+left unattended.
+
+Objective: Make your way to the enemy base and
+deactivate the security system to gain access 
+to their flag chamber. Bring the flag back to 
+your base for 10 points. The top route lasers 
+and shoop lasers are also deactivated by the
+security system.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. The security remains down 
+for 45 seconds. Laser fields in the backway
+and sewer entrance play an alarm noise when
+tripped by enemies.
+
+Map by mac_II AKA shurbrrt, 12/3/2023
+
+Special thanks to those in the TFC mapping
+discord who helped with a few things around
+the map.
+
+changelog 12/5/2023:
+- changed the skybox (and volumetric lighting in 
+the top area)
+- added VOX for flag resetting
+- fixed security alert text/sounds not playing
+- fixed the pitch of blue's backway alarm
+- bags in resupply now give health
+- added medkits in top area resupply
+- minor optimization & other tiny changes
