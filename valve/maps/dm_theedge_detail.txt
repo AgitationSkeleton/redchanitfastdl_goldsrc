@@ -1,0 +1,121 @@
+// Detail textures for dm_teedge. Use "r_detailtexturessupported 1" and "r_detailtextures 1" commands to activate it.
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+//Rocks
+-0rock1        detail/dt_ground5     10      10
+-1rock1        detail/dt_ground5     10      10
+-2rock1        detail/dt_ground5     10      10
+-3rock1        detail/dt_ground5     10      10
+-4rock1        detail/dt_ground5     10      10
+
+-0rock2        detail/dt_ground5     9.375      6.25
+-1rock2        detail/dt_ground5     9.375      6.25
+-2rock2        detail/dt_ground5     9.375      6.25
+-3rock2        detail/dt_ground5     9.375      6.25
+
+//Ground
+OUT_GRND2       detail/dt_ground3     10      5
+OUT_SND1          detail/dt_smooth1     5      5
+C1A1_FLR2C       detail/dt_conc         2.5    2.5
+-0TNNL_FLR1B    detail/dt_conc         2.5    2.5
+-1TNNL_FLR1B    detail/dt_conc         2.5    2.5
+-2TNNL_FLR1B    detail/dt_conc         2.5    2.5
+-3TNNL_FLR1B    detail/dt_conc         2.5    2.5
+OUT_DIRT1          detail/dt_ground5    5       5
+-0LAB1_FLR7       detail/dt_brick        5       5
+-1LAB1_FLR7       detail/dt_brick        5       5
+-2LAB1_FLR7       detail/dt_brick        5       5
+
+//Metal
+C2A3COMPACTOR1      detail/dt_metal2        5       5
+OUT_W1A                     detail/dt_metal2        5       5
+-0SILO2_P2                   detail/dt_metal1        5       5
+-1SILO2_P2                   detail/dt_metal1        5       5
+-2SILO2_P2                   detail/dt_metal1        5       5
+-3SILO2_P2                   detail/dt_metal1        5       5
+GENERIC015                 detail/dt_metal2       10      10
+-0SILO2_P2B                 detail/dt_metal1        5       5
+-1SILO2_P2B                 detail/dt_metal1        5       5
+-2SILO2_P2B                 detail/dt_metal1        5       5
+-3SILO2_P2B                 detail/dt_metal1        5       5
+GENERIC015M              detail/dt_metal2        10     10
+TSSPTSMSS                 detail/dt_metal2        20     20
+GENERIC039                 detail/dt_metal1        1.875   1.25
++0RECHARGE               detail/dt_ssteel1       5       7.5
++ARECHARGE              detail/dt_ssteel1        5       7.5
+RECHARGEEDGE1       detail/dt_metal2        0.625   1.875
+GENERIC101A2             detail/dt_metal1        3.75     5
+OUT_W6B                     detail/dt_metal1        5.625   5.625
+{GRATESTEP3              detail/dt_metal1        3.75     3.75
+{GRATESTEP2              detail/dt_metal1        3.75     3.75
+GENERIC86                  detail/dt_metal1        0.625   1.25
+GENERIC015H              detail/dt_metal2        2.5       2.5
+CON1_WALL01P           detail/dt_metal2        2.5       5
+-0BABTECH8                 detail/dt_metal2        5         5
+-1BABTECH8                 detail/dt_metal2        5         5
+-2BABTECH8                 detail/dt_metal2        5         5
+BABTECH9A                  detail/dt_metal2        5         5
+BABTECH9B                  detail/dt_metal2        5         5
+GENERIC015E               detail/dt_metal2        10       10
+GENERIC012                 detail/dt_metal2        5         5
+C1A1_CRATE1              detail/dt_metal2        3.75     5
+-0BASEBLUE                detail/dt_metal1        3.125   5
+-1BASEBLUE                detail/dt_metal1        3.125   5
+-2BASEBLUE                detail/dt_metal1        3.125   5
+BASEWALL01E             detail/dt_metal1        3.125   5
+BASEWALL01F             detail/dt_metal1        3.125   5
+BASEWALL01A             detail/dt_metal1        3.125   5
+BASEWALL01B             detail/dt_metal1        3.125   5
+TNNL_FLR12                  detail/dt_metal1        10       10
+
+//Walls
+OUT_WALL7F              detail/dt_brick             3.75    10
+C2A1_W1                    detail/dt_brick             12.5    6.25
+-0C2A4E_W1               detail/dt_conc              5        6.25
+-1C2A4E_W1               detail/dt_conc              5        6.25
+C1A4_SILO4B              detail/dt_conc             7.5      5.625
+CRETE3_CEIL03C        detail/dt_conc             2.5      2.5
+OUT_WALL6C2            detail/dt_conc             5         5.625
+TNNL_W5E                  detail/dt_conc             6.25    5
+TNNL_W5F                  detail/dt_conc             6.25    5
+TNNL_W4B4                detail/dt_conc              5        5
+TNNL_FLR7C               detail/dt_conc              5        5
+-0LAB3_FLR1              detail/dt_conc              2.5     2.5
+-1LAB3_FLR1              detail/dt_conc              2.5     2.5
+-2LAB3_FLR1              detail/dt_conc              2.5     2.5
+-0LAB3_FLR1B            detail/dt_conc              2.5     2.5
+-1LAB3_FLR1B            detail/dt_conc              2.5     2.5
+-2LAB3_FLR1B            detail/dt_conc              2.5     2.5
+OUT_WALL5A             detail/dt_brick              3.75    5
+OUT_WALL5B             detail/dt_brick              3.75    5
+-0TNNL_W13A             detail/dt_conc              5        5
+-1TNNL_W13A             detail/dt_conc              5        5
+-2TNNL_W13A             detail/dt_conc              5        5
+TNNL_W12D3              detail/dt_conc              5        5
+-0TNNL_W12A             detail/dt_conc              5        5
+-1TNNL_W12A             detail/dt_conc              5        5
+-2TNNL_W12A             detail/dt_conc              5        5
+TNNL_W12C3              detail/dt_conc              5        5
+TNNL_W13B                detail/dt_conc              5        5
+TNNL_W12                  detail/dt_conc              5        5
+TNNL_W12D4              detail/dt_conc              5        5
+TNNL_FLR5C               detail/dt_conc              2.5     2.5
+
+//Lights
++0~LIGHT4A                detail/dt_ssteel1         1       1
++0~LIGHT6A                detail/dt_ssteel1         1       1
++0~GENERIC86B         detail/dt_ssteel1         1       1
+~TRN_LT1                    detail/dt_ssteel1         1.25  0.625
+
+//Wood
+BCRATE26                   detail/dt_wood2         2.5       2.5
+BCRATE06                   detail/dt_wood1         2.5       2.5
+BCRATE02                   detail/dt_wood2         2.5       2.5
+BCRATE18                   detail/dt_wood2         2.5       2.5
+CRATE03                     detail/dt_wood1         2.5       2.5
+CRATE02B                   detail/dt_wood2         2.5       2.5
+BCRATE09B                 detail/dt_wood2         2.5       2.5
+BCRATE12                   detail/dt_wood1         2.5       3.75
+CRATE09C                   detail/dt_smooth1      2.5       1.875
+CRATE09                     detail/dt_smooth1      2.5       1.875
+
