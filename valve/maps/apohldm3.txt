@@ -1,0 +1,62 @@
+================================================================
+Title                   : No place to hide
+Date                    : 28th May 1999 
+Filename                : apohldm3.bsp
+Author                  : Florian "Apocalypso" Halbritter
+Email Address           : apo@converted2.com
+Home Pages              : http://www.converted2.com/creators
+                          http://www.diabloii.net/riders
+
+Mail Address            : -
+			  Germany
+
+Description             : Half-Life Deathmatch level 
+		
+
+Additional Credits to   : i)   Valve/Sierra
+                          ii)  The Creators of Worlds
+                          iii) id Software
+
+================================================================
+
+* Play Information *
+
+Single Player           : not really
+Deathmatch              : Yes
+Difficulty Settings     : No
+
+================================================================
+
+Put the .bsp file into the following directory:
+
+... \Half-Life\valve\maps
+
+Run your hl.exe with "-toconsole +deathmatch 1" and 
+type in "map apohldm3" to the console. 
+
+================================================================
+
+* Construction *
+
+Editor(s) used          : Worldcraft 2.1
+Known Bugs              : none
+			  
+Build Time              : about one week
+
+Compile machine         : PentiumII/400 , 128 meg SD-RAM, RivaTNT 
+
+================================================================
+
+* Permissions *
+
+You are NOT allowed to sell this level with commercial profit in mind,
+without getting my permission first.
+
+If you want to include this map in a non-commercial map-pack or so, 
+you are allowed to,but you have to inform me first.(you have to include
+this text-file,too)
+
+Feel free to swap it amongst your net friends.
+
+You MAY NOT alter or add to this level without my permission.
+
