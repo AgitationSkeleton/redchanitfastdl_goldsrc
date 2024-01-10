@@ -1,0 +1,60 @@
+================================================================
+Title                   : The Alpha Complex
+Version                 : 1
+Release Date            : October 18th,1999 
+Filename                : apohldm8.bsp
+Author(s)               : Florian 'Apocalypso' Halbritter 
+Email Address           : apo@converted2.com
+Web Page(s)             : http://www.converted2.com/creators
+                          http://www.diabloii.net/riders
+
+Description             : Half-Life Deathmatch Map 
+
+Other levels by author  : APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche (not released so far)      
+                          (go to www.planethalflife.com/radium to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : The Alpha Complex
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1
+Construction Time       : about 1 week + play-testing & bug-fixing
+
+
+
+Installation
+------------
+
+Unzip the file apohldm8.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+Info
+----
+
+This map is intented to be played in small FFA-matches with about 4 players. The size of 
+the map does also allow one-on-one matches.
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Florian Halbritter,1999.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+

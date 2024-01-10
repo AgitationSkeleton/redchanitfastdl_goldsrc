@@ -1,0 +1,14 @@
+// overview description file for crossfire_christmas.bsp
+
+global 
+{
+	ZOOM	1.72
+	ORIGIN	-169.06 -461-12 -930.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/crossfire_christmas.bmp"
+	HEIGHT	-1937
+}

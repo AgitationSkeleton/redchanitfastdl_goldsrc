@@ -1,0 +1,32 @@
+=======================================================
+Crossfire Christmas by SilentRunner007
+
+Dec. 2023/Jan. 2024
+=======================================================
+
+
+Just me giving the well known Crossfire map by Dario Casali
+my own little Christmas spin.
+It's been done a million times but what the heck why not once more lol
+
+This was made from a rmf I found on MODDB
+because I have no desire to build it from scratch ;)
+
+Sounds from the web except for 3dm_bik_ball...Thats is from cs_bikini by 3D-Mike
+
+Textures are default, Some customs I found online, couple "borrowed" I believe from Creepitall and Nipper
+
+Models Not sure original sources except for xmasrat which I think was made by Quicksilver
+
+
+The "secret blue room" is not a secret now and it is not blue.
+As much as I wanted to remove the egons I left them in.
+The "nuke" still is there...sorta. Hit the button and see what happens(Some point it may lag but I wanted something specific to happen).
+
+Happy Holidays
+-SR007
+
+Silentrunner007@gmail.com
+
+
+

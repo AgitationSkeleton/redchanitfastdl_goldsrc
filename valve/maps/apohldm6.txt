@@ -1,0 +1,76 @@
+================================================================
+Title                   : Riposte
+Version                 : 2
+Release Date            : 9th August,1999 (First release)
+                          18th August,199 (Improved,second release)
+Filename                : apohldm6.bsp
+Author(s)               : Florian 'Apocalypso' Halbritter <MappersUnion>
+Email Address           : apo@converted2.com
+Web Page(s)             : http://www.converted2.com/creators
+                          http://www.diabloii.net/riders
+
+Description             : Deathmatch Map (1on1 or small FFA)
+
+Other levels by author  : APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde      
+                          (go to www.planethalflife.com/radium to download them)
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : Riposte
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : -
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.1
+Construction Time       : about 1/2 week + play-testing & bug-fixing
+
+
+
+Installation
+------------
+
+Unzip the file apohldm6.bsp into your ...\sierra\halflife\valve\maps directory
+
+
+2 Playing Tips
+--------------
+
+(1) Using the Gauss-Gun to shoot through walls: This can help you very often in this maps.For example,if you
+    here someone climbing up a ladder and than picking up a new gun,you can guess that he just got the Gauss-
+    Gun himself and so you can aim to the wall where the Gauss lies behind and shoot and voila! You got him!
+(2) Where is the other one?: It's important to know where your opponent(s) is/are,so it's important to keep 
+    your ears open.If you hear when someone climbs up/down a ladder or someone puts up the snarks you can guess
+    where he is.
+    Also the laserpoint of the RPG can tell you the position of your opponent....so learn to deactivate your own 
+    one when you walk around.
+
+
+Info
+----
+
+This map is intented to be for one-on-one or small 3player-ffa matches.
+
+It's meant to be some kind of sequel for one of my other maps 
+(APOHLDM5 - En Garde) and also my next map will be in the same style
+(will be APOHLDM7 - Touche).
+You see the names? En Garde | Riposte | Touche ! Cool,eh? :)
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Florian Halbritter 1999.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+

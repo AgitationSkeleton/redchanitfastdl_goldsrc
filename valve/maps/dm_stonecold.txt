@@ -1,0 +1,56 @@
+december 9, 2001
+my first released map......
+
+
+a floating outerspace concrete death party
+
+
+thanks to JUIM at the hot death diner for the suggestions
+================================================================
+
+Title                   : stonecold
+Filename                : dm_stonecold.bsp
+Author                  : m a n o i d
+E-mail           	: manoid@hotmail.com
+Description             : Halflife DM level with 10 dm starts  
+       
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Just HL and TFC textures
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+
+Editor used             : built on wc2.1 but now compiled on 3.3 (since i got my new gfx card:)
+
+Compile Machine		: amd k6 2 500 256meg 32 meg ati rage 128  win 98se
+
+Compile Tools           : Zoner's Halflife Tools v 2.5.3
+	
+Compile time		hlcsg :   26.20s
+			hlbsp :   27.74s
+			hlvis :  202.90s
+			hlrad : 2618.14s
+ 
+Known Bugs              : you tell me :)
+Build Time              : been working on off for 3 or 4 months
+
+================================================================
+
+If you enjoy playing this level, please send me an e-mail.....
+
+
+
+
+(c) Copyright 2001 m a n o i d
