@@ -1,0 +1,9 @@
+maps/most.txt
+maps/most.bsp
+maps/most.res
+gfx/env/blandsbk.tga
+gfx/env/blandsdn.tga
+gfx/env/blandsft.tga
+gfx/env/blandslf.tga
+gfx/env/blandsrt.tga
+gfx/env/blandsup.tga
