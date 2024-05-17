@@ -1,0 +1,59 @@
+=============================================
+
+fractured - Capture The Flag
+
+=============================================
+
+Log 100-2Ar:
+I don't know this place, but it knows me.
+There's nowhere to look if I only see myself.
+
+=============================================
+
+Map by shurbrrt AKA mac_II, 5/11/2024
+
+https://twhl.info/user/view/7802
+https://gamebanana.com/members/1721053
+https://www.tumblr.com/shurbrrt
+discord: ontheborderline#1821
+
+=============================================
+
+Objective: Enter the enemy Base and make
+your way to where their Flag resides in the
+Flag Room. Grab it and bring it back to your
+Battlements. Place it on the raised square in
+your Battlements to capture it.
+
+Scoring: 10 points per Capture.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+The grate covering the ramproom shoop takes 50
+damage to destroy.
+
+=============================================
+
+Changelog (beta02) 5/15/2024 @ 2:32 AM EST
+
+- Added a map logo for info_player_spawn
+- Fixed some spots around the map where the
+flag could get stuck, like in the room with
+the flowing water pipes (ty Nest).
+- Replaced the team-only bag in the fishtank
+with three non-team specific bags that give
+20h/15a/35c and respawn after 15s.
+- Moved the bags in fishtank slightly back
+- Adjusted the bag in the loading dock to
+give 50h/75a/60c and respawn after 15s.
+- Removed some boxes in ramp room
+- Removed one of the boxes in the loading
+dock to make concing into flag room easier
+- Fixed a null texture in the batts respawn
+- Minor texture changes
+- Optimization
+- Unclogged the toilet (plz, eat more fiber).
+
+=============================================
