@@ -1,0 +1,89 @@
+Cranetop
+
+Title                    : Cranetop
+Filename                 : cranetop.zip
+Author                   : Ralph Geissler
+Email Address            : cybris at onlinequilt.net
+Description              : Big Hunted map for TeamFortress Classic
+
+Number of Teams          : 3
+Recommended # of Players : 16-32
+
+New Sounds/Textures      : none
+Editor used              : Worldcraft 2.1, UltraEdit 6.00
+
+Installation             : Just unzip into the half-life\tfc\maps directory
+
+Re-release information   : This map was originally released in 1999. Almost 10
+                           years have passed and now TF2 has been released.
+                           As I'm writing this I'm working on releasing a suc-
+                           cessor to this map for TF2. It's called pl_cranetop.
+                           Obviously it's not a Hunted map, but maybe someday
+                           Hunted will become an official game mode again and
+                           Cranetop will get overhauled again. This re-release
+                           is mostly for nostalgical reasons. Have fun!
+
+Gameplay                 : This is a  Hunted map designed for a large number of
+                           players.  The  original  Hunted  map  was  just  not
+                           spacious  enough for  32 player matches,  and I hope
+                           this map  will be seen  as a viable  alternative  to
+                           administrators  of  large  TFC  servers.  The map is
+                           very dark  and very big, and also a tad slow in some
+                           places because  of its  openness.  This is by design
+                           and  I  cannot  really  do  much  about  it  without
+                           damaging the map.
+                           There  can be up to  seven  assassins in the game in
+                           order to oppose the  20+ bodyguards.  Assassins  get
+                           20 points for killing The Hunted on this map. I wish
+                           I had found a way to limit  the number of  Assassins
+                           based on the number of bodyguards;  if there are not
+                           enough players the game can become unbalanced.  Then
+                           again,  this map is intended for games with  a large
+                           number of players.
+                           The bodyguards can  now also take the role of sniper
+                           and  engineer.  The  snipers  can counter-snipe  the
+                           assassins  (though  they  can't enter  the off-limit
+                           zones),  and  the engineers can  block  choke points
+                           with sentry guns and ammo dispensers.
+                           Cranetop  gives The Hunted a rather long run for his
+                           life.  Even  more teamwork  is required than  in the
+                           original  Hunted  map,  because the ways are longer,
+                           there  are  more snipers  and  there  are  dangerous
+                           places  on the map  (like  the sewers  and the force
+                           field). The Hunted cannot get onto the crane because
+                           he is  too fat  to fit  through  the ladder manholes
+                           (this  is intentional).  The  crane has  spot lights
+                           which can be turned on and off.  The blast door that
+                           leads  underground  must  be  opened  from the small
+                           guard  tower.  The  yellow  force field  at the exit
+                           cannot  be  operated  by  one player alone,  so  The
+                           Hunted  can't  win  without escort.  There  is a way
+                           through  the sewers for  The Hunted,  but he needs a
+                           medic  in order  to survive.  There is  an  ammo and
+                           health depot in the  warehouse.  The assassins  have
+                           their own depots which are relatively safe. There is
+                           no announcement  of the position of  The Hunted  for
+                           the  bodyguards  because the players are supposed to
+                           communicate.
+                           I sincerely hope this map will be enjoyed,  as it is
+                           a rather  different  approach  to mapping  than I am
+                           used to.  It is my first TFC map, and I have learned
+                           quite  a bit from  the design  process.  I have also
+                           learned  that the engine  still sucks for large maps.
+
+Copyright                : This map is copyrighted by the author.  You  MAY NOT
+                           modify the files in this archive and you MAY NOT use
+                           this map as a base for your own maps. If you want to
+                           use it for your own editing purposes, please contact
+                           me  at  the  email  address  given  above.  You  MAY
+                           distribute  this file  unchanged  and at little cost
+                           using networks, Diskettes or CD/R's, but you MAY NOT
+                           distribute it on  CD-ROM.  There is no warranty, and
+                           the author is  not responsible  for  damage  done by
+                           this file or its use.  Please reports errors  to the
+                           given email address. Enjoy!
+
+Thanks to                : id Software  for the genre,  Valve Software  for the
+                           game,  the Team TF  for the mod,  the people  on the
+                           Internet  for  the fun,  God for everything  and  my
+                           woman for that which makes life worthwhile.
