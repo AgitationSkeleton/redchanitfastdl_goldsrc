@@ -1,0 +1,14 @@
+// overview description file for dmc_sm1_rpg.bsp
+
+global 
+{
+	ZOOM	4.48
+	ORIGIN	72	-192	248
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dmc_sm2_goetz.bmp"
+	HEIGHT	15
+}

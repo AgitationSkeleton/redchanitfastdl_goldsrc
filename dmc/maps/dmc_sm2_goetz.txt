@@ -1,0 +1,6 @@
+dmc_sm2_goetz
+by JPiolho
+
+Original map: sm2_goetz
+by Goetz
+from Quake 1, released as part of Quake 1 Speedmapping Pack 2

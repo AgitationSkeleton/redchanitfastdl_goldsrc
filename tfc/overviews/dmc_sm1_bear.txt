@@ -1,0 +1,14 @@
+// overview description file for dmc_sm1_bear.bsp
+
+global 
+{
+	ZOOM	5.02
+	ORIGIN	512 	-222.44	176
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dmc_sm1_bear.bmp"
+	HEIGHT	-193
+}

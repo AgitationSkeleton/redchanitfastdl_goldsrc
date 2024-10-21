@@ -1,0 +1,14 @@
+// overview description file for dmc_sm1_rpg.bsp
+
+global 
+{
+	ZOOM	4.83
+	ORIGIN	-453.47	160	112
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dmc_sm1_rpg.bmp"
+	HEIGHT	-257
+}
