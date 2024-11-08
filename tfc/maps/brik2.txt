@@ -1,0 +1,47 @@
+------General Information--------------------------------------------
+
+Title           :	Brickhouse Revenge
+Filename        :	brik2.bsp
+Author          :	Craig "Cexxy" Morris
+Author Email    :	cexxy@hotmail.com
+Previous Maps   :	Brickhouse Twilight
+
+------Play Information-----------------------------------------------
+
+Deathmatch      :	Yes, only, please.
+Single Player	:	For the love of God, no!!
+How Many Players:	8 to 12 should fit nicely.
+Other maps	:	http://cexxy.tripod.com
+
+------Map Description-----------------------------------------------
+
+     This map is a large revision of one of my older maps, which I 
+released back in February. It's based on the GAB at the University 
+of North Texas, which (as of Sept. 24, 99) I attend, although you'll 
+probably never notice the resemblance, especially since most everyone 
+who plays this will never see it.  There's no story, just go kill 
+each other.  It's the neighborly thing to do.  
+
+
+------Construction---------------------------------------------------
+
+Base            :	level revision based off "Brickhouse Twilight", also by me.
+Editor(s) used  :	Worldcraft 2.0, 2.1
+Compile Machine :	Celeron 466, 64 mb RAM
+Compile time    :	Why does it matter?
+Development time:	7 months, no...about two weeks, sporadically.
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive.  Place the map, "brik2.bsp", in
+your half-life/valve/maps directory.
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+The archive containing this BSP may be distributed, as is with NO 
+modifications, over the Internet and/or BBS systems.  If you want to 
+put it on a CD, permission must be granted by me beforehand. Down with 
+shovelware!

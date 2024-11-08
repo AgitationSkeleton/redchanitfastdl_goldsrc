@@ -1,0 +1,64 @@
+5/30/99
+=======================================================
+Title			: "One Slip"
+Description		: DM map for Half Life
+Filename		: oneslip.bsp 
+Author			: Dave Waters, Long Beach, CA 
+E-mail Address		: baseman@msn.com or waters@planethalflife.com
+Homepage                : http://www.planethalflife.com/3dconstruction   
+
+=======================================================
+
+* Installation *
+
+Extract the bsp file to your Sierra\Half-Life\valve\maps folder.
+   
+=======================================================
+
+* Play Information *
+
+Single Player/Coop     :No
+Deathmatch             :Yes(2-4)
+TFC                    :No
+New textures           :No
+New Models             :No
+New Sounds             :No
+New Code               :No
+
+=======================================================
+  
+* Description *
+
+Here we have a nice small/medium size dm map set at night, in
+Quake hipdm1 style, but with an all new original layout. Throw
+a handfull of snarks into the teleporters for fun, and watch
+the player at the other end go running for their life. All
+weapons except the hornetgun, satchels, and handgrenades are here.
+I included the Egon, but you will have to use the long jump module
+to get it. This map favors crossbow sniping, with some great
+potential for long shots, and a few dark shadows to hide in.
+Playabilty is very good considering the open layout, and r_speeds
+stay well below 500 for most sections of the map, although texture 
+detail suffers a little to achieve this. The map name should give
+you a clue as to what happens if you fall off the walkways or buildings....=)   
+
+======================================================
+  
+* Construction *
+
+Base                   :Scratch
+Build time             :1 week 
+Compiler               :P2-350 / Diamond-TNT 
+
+Please forward any comments to me about this map, 
+and report any bugs to the E-mail address above.
+
+=======================================================
+
+* Permissions *
+
+This software is for free distribution only. No authorization for 
+electronic/digital media sales will be given. Anyone caught ripping
+stuff from my maps will be vaporized. Half-Life is a registered
+trademark of Valve Software. 
+

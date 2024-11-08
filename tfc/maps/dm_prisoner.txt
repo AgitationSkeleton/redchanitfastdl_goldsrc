@@ -1,0 +1,60 @@
+=====================================================================
+   Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:Prisoner
+Filename	:dm_prisoner.bsp, op4_prisoner
+Author		:Andrew Fischer
+Home page	:fischer6295@yahoo.com
+Description	:This is a recreation of the deathmatch map Prisoner from original Halo. I highly recommend the Oz Deathmatch mod where you can also tweak weapons to the Halo feel, complete with gimped machine gun and chuck-norris-fist-cannon pistol.  
+
+Previous Maps	: Carbaseus, Hacienda, Marble Garden, Inanis, Moonside, et al.
+
+------Credits and Thanks---------------------------------------------
+
+Thanks to Bungie for the original design and layout
+
+------Play Information-----------------------------------------------
+
+Deathmatch	:yes	
+Single Player	:no
+Map Description	:Large central house with surrounding structures
+How Many Players:2-8
+
+------Map Information------------------------------------------------
+
+New Textures	:no
+New Sounds	:yes
+
+------Construction---------------------------------------------------
+
+Base		:none
+Editor(s) used	:Hammer 3.5
+Compiler	:Toolbox w/ Zoner's 3.0
+Compile Machine :Intel 3570k, 32gb, Win 10 64 
+Compile time	:Aprox 45 minutes
+
+------Map Instructions-----------------------------------------------
+
+1. Unzip the files in this archive.  
+2. Place the map in your half-life/valve_downloads/maps directory. 
+3. Place all sounds in the half-life/valve_downloads/sound/ambience directory.
+
+Dm_prisoner.bsp is the standard vanilla version and op4_prisoner is made for the Opposing Forces expansion.
+
+------Additional Info------------------------------------------------
+
+
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

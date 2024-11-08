@@ -1,0 +1,96 @@
+=================================================================================================
+Title                   : Shotgun Square Dance
+Files                   : sgsd.bsp, sgsd.jrf
+Author                  : QS
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://members.xoom.com/the_page/hl
+
+
+Warning                 : You must have version 1.0.0.9 or better of Half-Life to
+                          play this map.
+
+Description		: Small map made mainly for LAN play but r_speeds were kept low enough
+                          that it should be acceptable for SMALL (2-4 player) internet games.
+                          
+
+                          The object of this map is to get to the shotgun on the heliport in
+                          the middle of the map and hold out as long as you can. The heliport
+                          automatically awards one point every 6 seconds to anyone standing on
+                          it. There are other weapons besides the shotgun, but they are usually
+                          harder to get or not as useful in this sort of enviroment. Also, ammo
+                          is very limited for other weapons. This was done to put emphasis on the
+                          shotgun and the heliport. Lighting also dims the further out you
+                          get from the middle area (heliport). This was done to allow creeping
+                          and to make it harder for opponents standing on the heliport to 
+                          instantly know where you are on spawn and be able to track you giving
+                          you a chance to shoot or run at them out of the dark.
+
+                          Also, players will start with 30 points of armor automatically.
+
+                          When the map first starts, you will not be able to get to the heliport
+                          as it will be surronded by a chain link fence. It will come down after
+                          a period of time allowing everyone access to the pad. If however, you 
+                          decide to jump over the fence and wait, you will be killed as soon
+                          as the lightening sets off the explosives. Its better to use the time
+                          before the fence comes down to gather as many other weapons, ammo, and
+                          kills as possible. Also, if you are near the explosion when it goes
+                          off, you will be hurt, and possibly killed depending on your current
+                          state and position. The closer you are to it the more chance you
+                          you will die.
+
+                          There is also a mounted machine gun aimed toward the center heliport
+                          that will help fend off powerful opponents who have a monopoly on
+                          the heliport pad. This machine gun also gives the user (player)
+                          points for kills.
+                      
+                          
+                        
+Weapons Included        : Shotgun (of course), RPG, 9mmAR, Crossbow, 357, Handgrenades, Satchels
+                          Tripmines
+            
+=================================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David, Darrell, David, Merrit, Benny, Scott and the Jumbot
+
+Big thanks to my brother David for all the help and support on this one. Your the man!!!
+
+Big thanks to Valve for making an excellent game with tons of options for mappers.
+
+=================================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Shotgun Square Dance
+Files    		: sgsd.bsp, sgsd.jrf
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP # of PLAYERS        : 2-4
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 128MB mem Voodoo3 and AMD K6 300 64MB mem Voodoo2
+Editor(s) used                 : WC, ZHLT, Q2 Beaver, Wally
+Known bugs                     : Players will continue to gain points even after the map is over
+                                 if they are on the heliport pad.
+New sounds/textures/entities   : No
+=================================================================================================
+=================================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps
+directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+
+This map took about 2 days to build and about another 2 days to get set up correctly.
+Numerous playtests have been run on this map (about 60-70 hours) over the past 4 months.
+There have been about 20 revisions done.
+
+=================================================================================================
+--LEGAL--
+This Half-Life map/level (Shotgun Square Dance, sgsd.bsp) is (c) 2000 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless
+you have permission from me. You MAY distribute this BSP file through any other means,
+provided you include this .txt file (unaltered) and it is free of charge. Do not modify
+this BSP in any way.
+

@@ -1,0 +1,64 @@
+===================================================================================
+FINAL RELEASE DATE: September 9, 1999
+===================================================================================
+Title(s)                : Hammered Gunpowder
+Files                   : hgunpwdr.bsp
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page (Quake2 levels availible)
+
+
+Description		: A DM map for fraggin around in. This is HAMMERED's 
+                          little brother (smaller LAN version) made for 2-8 player.
+                          The reason its called HAMMERED GUNPOWDER also comes from the fact that
+                          there are NO ENERGY WEAPONS.
+                          This was a request from my friend PAT and I think it came out good.
+                          This map should run OK over the internet also.
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+
+Playtesters: David, Darrell, Pat, Merit, Steve O, David C
+
+and a BIG THANKS to EVERYBODY at DOE.
+Try the DEPARTMENT OF ENGINEERING for all your map testing needs...
+http://www.halflife.lowlife.com/
+
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Hammered Gunpowder
+Files    		: hgunpwdr.bsp
+Single Player           : No	
+Cooperative 		: No 
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 2-8 (8 for fast, frenzied games)
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Known bugs                     : Some small visible areas through the sky. Not real noticible (I hope:)).
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+This is map 5.5 for me because it is basicly one big prefab that I took from HAMMERED (map 5).
+If you like this map but wish it were bigger then HAMMERED is your map.
+Its a larger version of this map and includes all weapons except for the HORNET.  
+You can grab HAMMERED at...
+                          
+http://members.xoom.com/The_Page/hl/hgunpwdr.zip                          
+
+                          
+NOTICE: If you are running this map (hgunpwdr.bsp) on a slower PC, P200mmx or slower, you may want to turn
+your decals down or maybe even off to get smoother play.
+
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Hammered Gunpowder-hgunpwdr.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP in any way.
