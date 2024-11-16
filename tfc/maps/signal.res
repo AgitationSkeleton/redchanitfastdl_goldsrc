@@ -5,6 +5,7 @@
 
 // .res entries (23):
 bdogtfc.wad
+BDogTFC.wad
 decals.wad
 gfx/env/city2bk.tga
 gfx/env/city2dn.tga
