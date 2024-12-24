@@ -1,0 +1,49 @@
+===================================================================================
+Xmas Well
+===================================================================================
+BSP name                 : XmasWell.bsp
+full map name            : Xmas Well
+Author                   : LeeW aka [WCA]elisha otis -AM-
+Email Address            : lee.wakefield@ntlworld.com
+Game/MOD                 : TFC
+Number of Teams		 : 2
+Recommended # of Players : 8-24
+Deathmatch               : No
+new models               : No
+new sounds               : No
+new textures             : Yes
+new skybox               : No
+
+texture WADs used        :Half-life.WAD, liqides.WAD, xeno.WAD, 
+			 :TFC.WAD, TFC2.WAD, 
+                         :cs_bdog.WAD (compiled in), cs_office.WAD (compiled in) and Lees.wad (compiled in)
+new textures             :snow
+			 :falling snow	
+			 :xmas lights
+===================================================================================
+build info
+===================================================================================
+Base map                 : Original Well map
+Editor used              : Worldcraft 3.3
+Known Bugs               : High r_speeds in center
+build time               : 1 week
+Compile time             : About 45mins
+compile computer         : pentium 3 866MHz 384MB RAM
+===================================================================================
+Storyline
+===================================================================================
+There isent one
+this map is not ment for serious play, its just for a bit of fun over the xmas 
+periord.  If you have a computer with less than a 600MHz processor and dont have a 
+OpenGL or Direct3D compatible graphics card I do not recomend you play this map 
+due to high polygone counts
+===================================================================================
+Credits
+===================================================================================
+Valve Software for the original Well map and a kick-ass game
+The countersrike team for the ground snow texture
+===================================================================================
+COPYRIGHT INFORMATION:
+you may do what you want with this map, you may decompile, hack, edit, or
+distribute this Map anyway you like.
+===================================================================================
