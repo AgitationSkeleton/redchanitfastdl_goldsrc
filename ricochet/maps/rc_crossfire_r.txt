@@ -1,0 +1,26 @@
+Rc_Crossfire_r
+
+Originally made by Dario Casali, Hacked by Pique. 
+Dopemanfunk@hotmail.com    AIM: DopeManFunk  ICQ: 62918767 
+
+Just a revised version of rc_crossfire. There were some bugs in the other map that got very annoying.  Like the whoreing of the blue room.  Thx to newbie for that one :/.  Other bugs included exploits with the teleporters.  This version isn't PERFECT but its ricochet, not like anyone will really care.   THERE IS STILL AN EASTER EGG! And the old easter egg is still there, just...different :D.  Other than that there's not too much different.  EXCEPT FOR THE FACT THAT PUSH DISCS ACTUALLY DO SOMETHING NOW...I have edited some textures.  DO NOT TOUCH WALLS WITH A DARK WALL TEXTURE ON IT...or you will be easily annoyed.  
+
+Again just put it in your ricochet/maps directory
+
+
+
+I thought this map would be an awesome ricochet map.  Hell its just an awesome map.  There are some texture glitches,  You wouldn't believe how bad winbsp screwed up the textures.  There is an Easteregg. If you find it without decompiling, or noclip I will be amazed. I think I hid it pretty good.  I would appriciate some feedback bad or good, just make sure if its bad you tell me why and not just flame me on how I copied valves map because it IS valves map, I just hacked it. 
+
+Known bugs : 
+None except for texture glitches, i was too lazy to fix everything.
+
+Thanks too Lethal_injection, leaver@dleaver.freeserve.co.uk, for the Laser turret prefab. I was too lazy to figure out how to make one myself.  
+
+
+
+Installation:
+Just put rc_crossfire.bsp into your half-life/ricochet/maps directory
+
+
+
+

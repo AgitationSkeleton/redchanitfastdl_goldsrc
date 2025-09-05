@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.72
+	ORIGIN	-118.69	-543	-2305
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/rc_crossfire.bmp"
+	HEIGHT	-2305
+}
