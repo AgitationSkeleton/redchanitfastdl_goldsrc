@@ -1,0 +1,10 @@
+models/mapmodels/bigrat.mdl
+models/mapmodels/resupplylocker_tfc.mdl
+models/mapmodels/w_pickups_tfc.mdl
+overviews/biohazard_jb.bmp
+overviews/biohazard_jb.txt
+sound/ambience/geiger_loop.wav
+sound/ambience/water_flowing2.wav
+sound/items/regenerate.wav
+sound/items/l_health.wav
+sound/items/ar2_pkup.wav

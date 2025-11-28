@@ -1,0 +1,17 @@
+Biohazard - Capture The Flag
+Original map from Jabroni Brawl: Episode 3 by Nask and Zero.
+
+================  Objective  ================
+Enter the enemy Pump Station and make your way 
+to where their Flag resides in the Flag Room. 
+Grab it and bring it back to your Flag Room. 
+Place it on the raised square to Capture it. 
+
+================  Scoring  ================
+10 points per Capture.
+
+================  Notes  ================
+- Flag carriers drop the Flag when they die. 
+- Dropped flags return to their Base after 60 seconds.
+- Resupply lockers in respawn rooms replenish health, 
+armor and ammo that your class use.

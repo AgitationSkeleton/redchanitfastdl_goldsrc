@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.17
+	ORIGIN	0.04 	-0.28	-15.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/biohazard_jb.bmp"
+	HEIGHT	-512.00
+}

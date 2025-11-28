@@ -1,0 +1,48 @@
+Avanti Part II - Invade and defend
+Version 1.11
+
+Objective: Blue team starts as the attacker.
+Red team starts as the defender. The attacking
+team starts at the bottom of the hill and must
+take control of the town by moving uphill and
+taking control of Command Points sequentially.
+The defending team simply tries to hold out as
+long as they can. Once the attackers succeed,
+teams swap, and play begins again.
+
+Command Points are captured by taking the flag
+from the previous point and carrying it to the
+next. When a Command Point is secured, the flag
+required to capture the next Command Point 
+appears on top of it. For example, the flag 
+needed to capture Command Point 3 will always 
+spawn at Command Point 2. Dropped flags return
+after 15 seconds.
+
+Scoring:
+Attacking team - 10 points per Command Point
+captured.
+Defending team - Points are awarded over time
+for defending the Church.
+
+Credits: 
+Dimmi64 (AKA 'Dmitry') - Everything (mapping/level design, 
+texture conversion & editing, gametesting, FoxBot's waypoints,
+skybox) 
+Paft and BoM/adZ: Game testing and 
+Bryan Dillow (Zouave) - Ads from his 'palermo' map.
+* Magellan's (Prog metal band) "No Time for Words" instrumental
+used when the attackers capture the CP4.
+
+Special thanks:
+
+* The TFC-Reloaded community for supporting my maps
+(https://discord.gg/Q2J2NN2sq9)
+
+* The entire Royston Vasey community for also supporting
+my maps, particularily Jolene, Spanky, Paft, BoM, 
+Enforcer, Calm Killer and all the
+other from RV.
+(https://discord.gg/YvDvGnfJcz)
+
+June 25, 2025
